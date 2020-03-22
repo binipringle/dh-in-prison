@@ -7,7 +7,7 @@ source:
 
 ---
 
-(excerpt)
+There will be a new section here. Think of hosting.
 
 MAMA: Son—how come you talk so much 'bout money?
 
