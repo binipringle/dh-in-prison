@@ -5,9 +5,9 @@ author:
 editor:
 rights:
 source:
-publication-date: 
+publication-date:
 toc:
-- Title Page
+- Title Page I am making a tiny change to see
 - Preface
 - Letter from Wendell Phillips, Esq.
 - Chapter I
