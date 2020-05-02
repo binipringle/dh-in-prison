@@ -29,8 +29,6 @@ toc:
 
 ## Editor's note
 
-<<<<<<< HEAD
-=======
 I am going to edit this - now testing git upstream - now writing on mac - now on ubuntu
 
 >>>>>>> 4c4b1dc797d5fc0bcb813670688f6c687bb5ede3
