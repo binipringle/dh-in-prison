@@ -1,0 +1,23 @@
+---
+layout: narrative
+title: Introduction
+author:
+editor: Sabina Pringle
+source: Capstone project, MA in Digital Humanities, The Graduate Center - CUNY
+---
+
+The United States has the highest incarceration rate in the world with around 2.2 million adults in prisons and jails and more than 4.5 million adults on probation or parole (Kaeble). In addition to these, 60,000 people under the age of 18 are being held in juvenile detention centers on any given day (“America’s Addiction,” ACLU). There are 5.6 times more black or brown people in prison than white people per 100,000 of the population (Carson). Native Americans, lesbians, gays, bisexuals, transgender and gender nonconforming individuals go to jail or prison two to four times more than heterosexual whites (Hartney). A University of Georgia study published in 2017 shows that at least 19 million adults, representing 8% of the overall population and 33% of the African American male population, have felony convictions; shockingly, only 3% of the total U.S. population but 15% of the African American male population have served time in prison (Shannon). All formerly incarcerated people face serious difficulties in finding employment when they are released, and the toll on low income black and brown communities has been devastating. Nicholas Turner, Director of the Vera Institute of Justice, observes that
+
+> We have lost generations of young men and women, particularly young men of color, to long and brutal prison terms. Even when they return home, they remain lost, as deplorable prison conditions and treatment seriously impair their ability to live productive and healthy lives long after release[^1].
+
+[^1]: Delaney et al., Reimagining Prison
+
+Despite evidence that education programs in prison lower short-term recidivism by 43% and long-term recidivism by 29% (Davis), the passage of the Violent Crime Control Act and Law Enforcement Act of 1994 made all incarcerated students ineligible for financial aid. The criminal justice system thus keeps hundreds of thousands of people out of school. The Center for American Progress reports that nearly 75 percent of those in state prison and 60 percent of those in federal prison have no high school credential but only about a third of those without it successfully obtain one during their prison terms (Bender). This means that about 766,000 incarcerated adults already have the necessary certification to enroll in college. It is our duty as a society to give them the means to do so.
+
+Privately funded prison education programs work hard to provide some students with college preparation courses and courses that lead to Certificates, Associate’s, and bachelor’s degrees. With so many people in jail and so few of them able to pursue an education, CUNY’s mission to serve “as a vehicle for the upward mobility of the disadvantaged in the City of New York” (“The Cuny Story”) must continue to extend to those behind bars. The Prison-to-College Pipeline program at the John Jay College of Criminal Justice has been doing this work with great success since 2011 and should be looked at as a model of how education can help restore lives.
+
+At present, most prison courses are book-based and most writing is done by hand. Facilities are under-resourced and low-tech, and students are denied internet access. The scarcity of hard and soft infrastructure to support digital work in prison settings, however, is an opportunity for innovation through developing software for digital humanities praxis within the parameters of minimal computing. As an added bonus, course materials developed in this way will be easily exportable to other low-tech environments in the United States and in other parts of the world.
+
+With a firm belief that education is a real means to improve people’s lives, this paper explores how a digital humanities course can be taught in prison and why the humanities, and not just technical skills, will contribute to laying foundations for turning incarcerated peoples’ lives around and enriching the communities they return to after release.
+
+Next section 

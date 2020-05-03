@@ -19,6 +19,6 @@ This site is built with <a href="http://elotroalex.github.io/ed//">Ed.</a>, a <a
 
 <a href="http://go-dh.github.io/mincomp/">minimal computing principles</a>, and focused on legibility, durability, ease and flexibility. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this site. If you are interested in using the framework rather than the content of this site, consider setting it up directly from <a href="http://elotroalex.github.io/ed//">Ed.</a>, which has excellent documentation and is what I used to build this site.
 
-Distributed with an MIT license | software copyright (c) 2016–present Alex Gil, Karl Stolley, and contributors | content copyright 2020 Sabina Pringle
+Distributed with an MIT license | Software copyright (c) 2016–present Alex Gil, Karl Stolley, and contributors | Content copyright 2020 Sabina Pringle
 
 ---
