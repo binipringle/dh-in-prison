@@ -19,12 +19,8 @@ This site is built with <a href="http://elotroalex.github.io/ed//">Ed.</a>, a <a
 
 <a href="http://go-dh.github.io/mincomp/">minimal computing principles</a>, and focused on legibility, durability, ease and flexibility. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this site. If you are interested in using the framework rather than the content of this site, consider setting it up directly from <a href="http://elotroalex.github.io/ed//">Ed.</a>, which has excellent documentation and is what I used to build this site.
 
-Copyright 2020 Sabina Pringle
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Distributed with an MIT license
+Software copyright (c) 2016–present Alex Gil, Karl Stolley, and contributors.
+Content copyright 2020 Sabina Pringle
 
 ---
