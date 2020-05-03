@@ -60,4 +60,6 @@ Some suits went further and argued that postsecondary education is a prerequisit
 
 Next section
 
+---
+
 [^3]: Cook v. Raimondo (Rhode Island) and Gary B. v. Snyder (Michigan), both 2018.
