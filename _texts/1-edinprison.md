@@ -10,7 +10,6 @@ toc:
 - 1.2. Reducing Recidivism
 - 1.3. The Digital Divide
 - 1.4. The right to an education
-
 ---
 
 ---
