@@ -22,8 +22,6 @@ The Center for American Progress reports that nearly 75 percent of those in stat
 
 In 2015 the Obama administration launched the Second Chance Pell Pilot Program, an experimental program that allowed 12,000 incarcerated students to receive Pell Grants at 68[^1] selected prisons (Federal Register Doc. 2015-18994). The future of the Second Chance Pell program is always unsure because institutions have to reapply every year. It has a lot of support, however, and in 2019 congress pointed to its success as it proposed an amendment to the HEA that would reinstate federal financial aid for all academically eligible incarcerated people.   This amendment was not adopted. Instead, U.S. Education Secretary Betsy Devos announced an expansion of the Second Chance Pell program (which the current administration calls the Second Chance Pell “experiment”) in 2020-21 which more than doubles its size by adding 67 new postsecondary institutions throughout the U.S. (St Amour).
 
-[^1]: Since 2015 the number of institutions participating in the Second Chance Pell program went down from 68 to 64.
-
 In 2018 Congress passed The First Step Act, a bipartisan criminal justice reform bill which provides $375 million in new funding for job training and education programs in federal prisons (First Step Act). The amount of funding that will go into federal prison college programs, however, is unknown; the bill privileges churches and “other outside groups” for access to funds (George). While all funding is a step in the right direction, the First Step Act benefits comparatively few students in prisons and jails because it is a Federal Bureau of Justice reform bill that affects only federal prisons, which hold only about 181,000 of the 2.2 million people currently incarcerated in the United States. The remaining two million people in state prisons, state detention centers and county jails do not benefit in any way from the First Step Act. Instead, these institutions continue to serve as vehicles to push racist reactionary policies designed to oppress and disenfranchise large segments of the population, and to reap huge profits from the prison-industrial complex as they do so.
 
 ---
@@ -31,8 +29,6 @@ In 2018 Congress passed The First Step Act, a bipartisan criminal justice reform
 # Reducing Recidivism
 
 A landmark analysis of correctional education programs published by the RAND Corporation in 2013 covering 30 years of research shows that incarcerated people who participate in education programs are 43% less likely to recidivate than those who do not  (Davis et al.). The same study shows that prison-based education lowers incarceration costs, yielding $4 to $5 of taxpayer savings for every dollar invested in helping incarcerated people learn (Davis et al.).[^2] The Vera Institute of Justice further observes that communities benefit over time, because “when parents, including incarcerated parents, complete college, their children are more likely to do so, thereby disrupting the typical cycle of poverty and incarceration” (“Fact Sheet”). It is thus in the interest of our communities and of our larger social fabric that we give people in prison the opportunity to acquire skills that will help them get jobs, which will in turn help underserved communities gain economic stability and move a little closer towards having some of the safety that privileges the middle class.
-
-[^2]: The RAND Corporation report finds that prison-based education reduces short-term recidivism by 43% and long-term recidivism by 29% (Davis et al.). The higher recidivism rate in the long term may indicate that societal factors undo some of the good done by prison-based education programs rather than suggest that there is a sustainability problem with the programs themselves.  
 
 Incarcerated people come predominantly from low income households. Only about 59% of people serving prison terms have high school diplomas, compared with about 82% of the general population, and only about 24% have attended college (Bender). Instead of providing these people with opportunities to enroll in postsecondary education programs, the criminal justice system continues to segregate the least fortunate and most vulnerable members of society in institutions which utterly fail to prepare them for life after release. And most people serving sentences in prison will be released. The main goal of prison should be to prepare them to be useful, productive and not unhappy members of the communities they return to or become part of upon release.
 
@@ -60,6 +56,8 @@ Some suits went further and argued that postsecondary education is a prerequisit
 
 Next section
 
----
+[^1]: Since 2015 the number of institutions participating in the Second Chance Pell program went down from 68 to 64.
 
-[^3]: Cook v. Raimondo (Rhode Island) and Gary B. v. Snyder (Michigan), both 2018.
+[^2]: The RAND Corporation report finds that prison-based education reduces short-term recidivism by 43% and long-term recidivism by 29% (Davis et al.). The higher recidivism rate in the long term may indicate that societal factors undo some of the good done by prison-based education programs rather than suggest that there is a sustainability problem with the programs themselves. 
+
+[^3]: Cook v Raimondo (Rhode Island) and Gary B. v Snyder (Michigan), both 2018.
