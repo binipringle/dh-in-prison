@@ -1,9 +1,9 @@
 ---
 layout: narrative
-title: 3. Prison constraints
+title: 4. Minimal computing
 author:
-editor:
-source:
+editor: Sabina Pringle
+source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY. May 2020
 ---
 
 - The library is pretty

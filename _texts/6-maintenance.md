@@ -1,7 +1,7 @@
 ---
 layout: narrative
-title: 5. P2CP at Otisville, a case study and possible proposal
+title: 6. Maintenance and Sustainability
 author:
-editor:
-source:
+editor: Sabina Pringle
+source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY. May 2020 
 ---

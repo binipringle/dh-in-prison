@@ -1,10 +1,10 @@
 ---
 layout: narrative
-title: 4. Minimal computing
+title: 5. P2CP at Otisville: a case study and possible proposal
 author:
-editor:
+editor: Sabina Pringle
 rights:
-source:
+source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY. May 2020
 publication-date:
 toc:
 - Title Page I am making a tiny change to see

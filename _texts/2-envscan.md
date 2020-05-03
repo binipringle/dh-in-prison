@@ -1,9 +1,9 @@
 ---
 layout: narrative
-title: 1. Education in Prison
+title: 2. Environmental scan
 author:
-editor:
-source:
+editor: Sabina Pringle
+source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY. May 2020
 ---
 
 - DELAYED till she had ceased to know,

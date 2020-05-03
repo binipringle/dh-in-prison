@@ -1,10 +1,9 @@
 ---
 layout: narrative
-title: 6. Maintenance and sustainability
+title: 7. Conclusion
 author:
-editor:
-source:
-
+editor: Sabina Pringle
+source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY. May 2020
 ---
 
 There will be a new section here. Think of hosting.

@@ -1,9 +1,9 @@
 ---
 layout: narrative
-title: 2. Prison college programs in New York State and beyond
+title: 3. Prison constraints
 author:
-editor:
-source: 
+editor: Sabina Pringle
+source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY. May 2020
 ---
 
 - Hold fast to dreams
