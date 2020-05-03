@@ -6,10 +6,10 @@ editor: Sabina Pringle
 rights: License (specify)
 source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY. May 2020
 toc:
-- 1.1. Background
-- 1.2. Reducing Recidivism
-- 1.3. The Digital Divide
-- 1.4. The right to an education
+- Background
+- Reducing Recidivism
+- The Digital Divide
+- The right to an education
 ---
 
 ---
