@@ -11,7 +11,7 @@ source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY.
 American Civil Liberties Union. “America’s Addiction to Juvenile Incarceration: State by State.” American Civil Liberties Union, 2018. https://www.aclu.org/issues/juvenile-justice/youth-incarceration/americas-addiction-juvenile-incarceration-state-state
 Accessed February 23, 2020.
 
-Archipelagos | a journal of digital Caribbean praxis. http://archipelagosjournal.org/ Accessed May 3, 2020.
+Archipelagos \| a journal of digital Caribbean praxis. http://archipelagosjournal.org/ Accessed May 3, 2020.
 
 Battacharya, Ananya. “This is the tablet prisoners use.” CNN Business, July 23, 2015. https://money.cnn.com/2015/07/23/technology/jpay-prison-tablet/ Accessed January 20, 2020.
 
