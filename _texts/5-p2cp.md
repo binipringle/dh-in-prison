@@ -62,8 +62,12 @@ Laptop	| $350 |	17 |	$5,950
 External CD/DVD drive	| $45	| 2	 | $90
 Box of blank CDs |	$10	| 1	| $10
 Unforeseen expenses	| $100 |	1	| $100
-		| TOTAL	$6,350 |
+		| |TOTAL |	$6,350
+
+---
 
 # Sample lesson plan
 
 Once students have learned to use the command line, version control, some html and css, and built a simple website with Jekyll, they will be ready to learn some Python. One of the activities we did in the Graduate Center Digital Research institute which I loved was xxxx’s Haunted House game. She used Python to code a game which is played on the computer terminal, where the player answers a series of questions and gets binary answers that take them to one situation or another, with new questions prompting them on. The great thing about this game is that when you look at it you really get a sense of how imagined spaces can be coded and shared, and how the sprawling branches of the game open up possibilities that can be coded on and on, opening up a virtual labyrinth that students can work on together and play. The more complex it becomes the wider the finite array of situations grows. (note to Matt: this bit is unfinished)
+
+---
