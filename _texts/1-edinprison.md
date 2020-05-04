@@ -3,7 +3,7 @@ layout: narrative
 title: 1. Education in Prison
 author:
 editor: Sabina Pringle
-rights: License (specify)
+rights:
 source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY. May 2020
 toc:
 - Background
