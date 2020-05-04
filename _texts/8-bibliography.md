@@ -1,5 +1,5 @@
 ---
-layout: bibliography
+layout: page
 title: Bibliography
 author:
 editor: Sabina Pringle
