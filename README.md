@@ -9,11 +9,7 @@ As I learned new skills that gave me a lot of freedom to criss-cross between dif
 
 Minimal computing work done by digital humanists provided the answer to this question. Minimal computing is an emerging conversation in digital humanities about the need for computing solutions in parts of the world with little or no internet connectivity and limited access to digital technologies. This lack of access as well as the steep learning curve that generally accompanies it excludes a huge part of the world population from being able to participate in digital work. The goal of minimal computing is to seek ways to use computers under significant constraints of hardware, software, connectivity, education, network capacity, power, or other factors, to increase access and thus include otherwise excluded people in digital scholarship and digital work.  Minimal computing’s search for solutions revolves around the central question of what is needed and explores how to meet these needs at minimal cost. It aims to be sustainable, reasonably easy to program and able to preserve digital work at low cost and independently. To my excitement, I found that these goals exactly met this project's needs.
 
-This site was built with Ed., a Jekyll theme. To clone DH in Prison, follow the installation steps described in Ed.:
-
-## Installing and using Ed
-
-To learn how to install and begin using Ed, please visit our
+This site was built with Ed., a Jekyll theme. To clone DH in Prison, follow the installation steps described in its
 [documentation page](http://minicomp.github.io/ed/documentation).
 
 [^1]: see Patrick Svensson, "Beyond the Big Tent." Debates in the Digital Humanities 2012. Chapter 4. <a href="https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/38531431-5bd6-4eb1-95f5-fa49c025322d">dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/38531431-5bd6-4eb1-95f5-fa49c025322d</a>
