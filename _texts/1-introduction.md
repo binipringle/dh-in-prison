@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Introduction
+title: 1. Introduction
 author:
 editor: Sabina Pringle
 source: Capstone project, MA in Digital Humanities, The Graduate Center - CUNY

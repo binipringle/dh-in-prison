@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: 1. Education in Prison
+title: 2. Education in Prison
 author:
 editor: Sabina Pringle
 rights:
@@ -10,8 +10,6 @@ toc:
 - Reducing Recidivism
 - The Digital Divide
 - The right to an education
----
-
 ---
 
 # Background

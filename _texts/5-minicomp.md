@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: 4. Minimal computing
+title: 5. Minimal computing
 author:
 editor: Sabina Pringle
 rights:
@@ -12,7 +12,6 @@ toc:
 
 ---
 
----
 
 # Definition, philosophy, history
 

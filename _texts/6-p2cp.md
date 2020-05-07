@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: 5. Prison-to-College Pipeline at Otisville - a case study and possible proposal
+title: 6. Prison-to-College Pipeline at Otisville - a case study and possible proposal
 author:
 editor: Sabina Pringle
 rights:
@@ -17,7 +17,6 @@ toc:
 
 ---
 
----
 # Why Otisville
 
 The Prison-to-College Pipeline (P2CP) program is CUNY’s college-in-prison program. It is run by the Institute for Justice and Opportunity[^1] at John Jay College of Criminal Justice at Otisville Correctional Facility in upstate New York.  P2CP allows incarcerated students to enroll in and take college courses and guarantees all passing students a spot in a CUNY college upon release. It is a robust, proven program that has been in place since 2011, and since its beginning has made possible many instances of student success. The P2CP program aims to further CUNY’s mission of providing higher education to everyone who is eligible to go to college. This, notes P2CP Founding Director Baz Draesinger, “includes the prison population on a very basic level, [many of whom] did not have access to higher education to begin with or quality education before that.” In a sense, she said, “we’re enacting our duty as a society to offer people the education that they should have gotten in the first place” (“The Prison-to-College Pipeline”). These goals align perfectly with the goal of this project, namely, to expand the field of digital humanities to include incarcerated people among its practitioners because they have a just as much of a right as we do to participate in the exciting scholarship being performed in this field. Thus, by integrating DH in Prison in P2CP, students will benefit, the field of DH will grow and benefit, and the mission of CUNY will be further advanced.

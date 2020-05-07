@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: 7. Conclusion
+title: 8. Conclusion
 author:
 editor: Sabina Pringle
 source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY. May 2020

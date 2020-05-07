@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: 2. Environmental scan
+title: 3. Environmental scan
 author:
 editor: Sabina Pringle
 rights:
@@ -10,8 +10,6 @@ toc:
 - Programs and Initiatives in other states and other countries
 - The Digital Divide
 - The right to an education
----
-
 ---
 
 # College-in-prison programs in New York State
