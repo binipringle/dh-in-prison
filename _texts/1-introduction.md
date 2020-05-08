@@ -21,5 +21,3 @@ The Prison-to-College Pipeline at the John Jay College of Criminal Justice has b
 At present, most prison courses are book-based and most writing is done by hand. Most facilities are under-resourced and low-tech, and students are denied internet access. The scarcity of hard and soft infrastructure to support digital work in prison settings is an opportunity for innovation through developing software for digital humanities praxis within the parameters of minimal computing. As an added bonus, course materials developed in this way will be easily exportable to prisons and other low-tech environments in the U.S. and in other parts of the world.
 
 With a firm belief that education is a real means to improve people’s lives, this paper explores how a digital humanities course can be taught in prison and why the humanities, and not just technical skills, will contribute to laying foundations for turning incarcerated peoples’ lives around and enriching the communities they return to after release.
-
-Next section
