@@ -11,6 +11,8 @@ source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY.
 2. American Civil Liberties Union. “America’s Addiction to Juvenile Incarceration: State by State.” American Civil Liberties Union, 2018. https://www.aclu.org/issues/juvenile-justice/youth-incarceration/americas-addiction-juvenile-incarceration-state-state
 Accessed February 23, 2020.
 
+3. American Civil Liberties Union. "Mass Incarceration." American Civil Liberties Union, 2020. https://www.aclu.org/issues/smart-justice/mass-incarceration Accessed May 8, 2020.
+
 3. Archipelagos \| a journal of digital Caribbean praxis. http://archipelagosjournal.org/ Accessed May 3, 2020.
 
 4. Battacharya, Ananya. “This is the tablet prisoners use.” CNN Business, July 23, 2015. https://money.cnn.com/2015/07/23/technology/jpay-prison-tablet/ Accessed January 20, 2020.
@@ -22,7 +24,9 @@ Accessed April 3, 2020.
 
 7. Bouffard, Karen. “Could Norway’s mental health focus reduce incarceration in Michigan?” Detroit News, October 10, 2019. https://www.detroitnews.com/story/news/special-reports/2019/10/10/norway-prison-model-fixing-mental-illness-problems-michigan-prisons/1504226001/ Accessed November 8, 2019.
 
-8. “Buying a JP3 Player.” JPay.
+8. Bureau of Justice Statistics Bulletin. “Prisoners 1925-81.” U.S. Department of Justice. December, 1982. https://www.bjs.gov/content/pub/pdf/p2581.pdf  Accessed May 8, 2020.
+
+9. “Buying a JP3 Player.” JPay.
 https://www.jpay.com/jpayHelp/Content/products%20and%20services/JPay%20Credits/Buying%20a%20JP3%20player.htm Accessed December 7, 2019.
 
 9. “Buy Media.” JPay. https://www.jpay.com/PMusic.aspx  Accessed December 7, 2019.

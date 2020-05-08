@@ -25,6 +25,6 @@ With a firm belief that education is a real means to help people improve their l
 ---
 <a href="{{ site.baseurl }}/texts/2-edinprison/">2. Education in Prison</a>
 
-<a href="{{ site.baseurl }}/texts/0-abstract/">Back to Abstract</a>
+<a href="{{ site.baseurl }}/texts/0-abstract/">Back</a>
 
 ---
