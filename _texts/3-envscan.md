@@ -38,6 +38,7 @@ This year, at a prison in Turku, Finland, incarcerated people are taking a cours
 
 More and more initiatives for teaching technological and digital skills are finally making their way into prisons around the world, with very positive results. In the U.S. it will take a long time for the broken systems of our chronically overcrowded prisons to catch up, which they may only start to do when prison-industrial complex stakeholders see money to be made. Digital affordances in education will, however, continue to make their way to incarcerated students through the effort of dedicated faculty, staff, and administrators of educational initiatives in schools, colleges, universities and programs nation-wide.
 
+
 ---
 
 <a href="{{ site.baseurl }}/texts/4-prisconstraints/">4. Prison Constraints</a>
