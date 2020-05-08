@@ -164,11 +164,13 @@ Accessed May 2, 2020.
 
 73. Wikipedia contributors. "Global Tel Link." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 31 Oct. 2019. https://en.wikipedia.org/wiki/Global_Tel_Link Accessed 11 Nov. 2019.
 
-74. Wikipedia Contributors. “JPay.” Wikipedia. https://en.wikipedia.org/wiki/JPay Accessed May 2, 2020.
+74. Wikipedia contributors. "International Covenant on Economic, Social and Cultural Rights." Wikipedia, The Free Encyclopedia, 12 April 2020. https://en.wikipedia.org/w/index.php?title=International_Covenant_on_Economic,_Social_and_Cultural_Rights&oldid=950548673 Accessed May 8, 2020.
 
-75. Wikipedia Contributors. “Khan Academy.” Wikipedia. https://en.wikipedia.org/wiki/Khan_Academy Accessed April 19, 2020.
+74. Wikipedia Contributors. “JPay.” Wikipedia, The Free Encyclopedia. https://en.wikipedia.org/wiki/JPay Accessed May 2, 2020.
 
-76. Wikipedia Contributors. “Sneakernet.” https://en.wikipedia.org/wiki/Sneakernet Accessed May 3, 2020.
+75. Wikipedia Contributors. “Khan Academy.” Wikipedia, The Free Encyclopedia. https://en.wikipedia.org/wiki/Khan_Academy Accessed April 19, 2020.
+
+76. Wikipedia Contributors. “Sneakernet.” Wikipedia, The Free Encyclopedia. https://en.wikipedia.org/wiki/Sneakernet Accessed May 3, 2020.
 
 77. Yukhnenko D, Sridhar S and Fazel S. A systematic review of criminal recidivism rates worldwide: 3-year update. Wellcome Open Research: 2019:28 ([version 1; peer review: 1 approved, 2 approved with reservations]4) https://doi.org/10.12688/wellcomeopenres.14970.1 Accessed April 12, 2020.
 
