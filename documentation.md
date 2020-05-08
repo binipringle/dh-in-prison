@@ -12,6 +12,8 @@ author: Alex Gil
 
 ---
 
+Editor's note: my documentation is forthcoming. I am leaving Alex's excellent Ed. documentation here for the time being. I will point viewers to the Ed. documentation too.
+
 ## Prerequisites
 
 This documentation was built with beginners in mind, but has the necessary information for more seasoned producers.
