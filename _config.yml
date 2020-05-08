@@ -2,7 +2,7 @@
 
 # Setup
 title:               'DH in Prison'
-tagline:             'A minimal computing project for teaching digital humanities to system-impacted students in prison'
+tagline:             'A minimal computing project for teaching an introductory digital humanities course to students in college-in-prison'
 description:         'The thesis part of a capstone/thesis for the M.A. in Digital Humanities at the Graduate Center of the City University of New York.'
 url:                 'https://github.com/binipringle'
 baseurl:             '/dh-in-prison'

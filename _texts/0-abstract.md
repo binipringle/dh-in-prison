@@ -14,3 +14,5 @@ The solutions sought in this paper are influenced and inspired by conversations,
 ---
 
 [1. Introduction](1-introduction)
+[1. Introduction](texts/1-introduction)
+<a href="{{ site.baseurl }}/texts/1-introduction/">1. Introduction</a>
