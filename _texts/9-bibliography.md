@@ -20,6 +20,8 @@ Accessed February 23, 2020.
 5. BBC Contributors. “Coronavirus: At least 23 killed in Colombia prison unrest.” BBC News: March 23, 2020. https://www.bbc.com/news/world-latin-america-51999594
 Accessed April 3, 2020.
 
+5. Bedford Hills College Program. Marymount Manhattan College. https://www.mmm.edu/prison-education/bedford-hills-college-program/ Accessed May 8, 2020.
+
 6. Bender, Kathleen. “Education Opportunities in Prison Are Key to Reducing Crime.” Center for American Progress, March 2, 2018. https://www.americanprogress.org/issues/education-k-12/news/2018/03/02/447321/education-opportunities-prison-key-reducing-crime/ Accessed February 23, 2020.
 
 7. Bouffard, Karen. “Could Norway’s mental health focus reduce incarceration in Michigan?” Detroit News, October 10, 2019. https://www.detroitnews.com/story/news/special-reports/2019/10/10/norway-prison-model-fixing-mental-illness-problems-michigan-prisons/1504226001/ Accessed November 8, 2019.
@@ -80,6 +82,9 @@ Accessed February 23, 2020.
 
 33. “JPay Proudly Makes KA Lite Videos Available to Inmates, Providing Much-Needed Access to Free Education.” Cision PR Newswire, February 24, 2016.  https://www.prnewswire.com/news-releases/jpay-proudly-makes-ka-lite-videos-available-to-inmates-providing-much-needed-access-to-free-education-300224916.html Accessed May 2, 2020.
 
+34. Justice-in-Education Initiative. The Society of Fellows and Heyman Center for the Humanities, Columbia University. http://justiceineducation.columbia.edu/ Accessed May 8, 2020.
+
+
 34. Kaeble, Danielle and Mary Cowhig. “Correctional Populations in the United States, 2016.” U.S. Bureau of Justice Statistics, April 2018. https://www.bjs.gov/content/pub/pdf/cpus16.pdf Accessed February 23, 2020.
 
 35. Karthaus, Roland, Lucy Block and Anthony Hu. Redesigning prison: the architecture and ethics of rehabilitation. The Journal of Architecture 24:2 193-222, 2019. DOI: 10.1080/13602365.2019.1578072 https://www.tandfonline.com/doi/full/10.1080/13602365.2019.1578072?scroll=top&needAccess=true Accessed May 2, 2020.
@@ -102,6 +107,8 @@ Accessed February 23, 2020.
 
 44. Novick, Lynn and Ken Burns. “College Behind Bars.” Skiff Mountain Films, 2019. Viewed at New York Film Festival, Lincoln Center, August 2019. Streamed on Public Broadcasting System, Thirteen, January 2020. https://www.pbs.org/kenburns/college-behind-bars
 
+45. NYU Prison Education Program. New York University. https://prisoneducation.nyu.edu/ Accessed May 8, 2020.
+
 45. Omeka. https://omeka.org/ Accessed April 21, 2020.
 
 46. Pai, Ajit. “Statement of Chairman Ajit Pai | Re: Promoting Technological Solutions to Combat Contraband Wireless Device Use in Correctional Facilities.” GN Docket No. 13-111 accompanying FCC 17-25 REPORT AND ORDER AND FURTHER NOTICE OF PROPOSED RULEMAKING in the Matter of Promoting Technological Solutions to Combat Contraband Wireless Device Use in Correctional Facilities. Federal Registry: March 24, 2017.
@@ -111,6 +118,8 @@ Accessed February 23, 2020.
 48. Pigeonly. https://pigeonly.com/# Accessed April 3, 2020
 
 49. Prisoner Reentry Institute, The. Mapping the Landscape of Higher Education in New York State Prisons. John Jay College of Criminal Justice Prisoner Reentry Institute: February 2019. http://johnjaypri.org/wp-content/uploads/2019/06/Mapping-the-Landscape-of-Higher-Ed-in-NYS-Prisons-6.10.19.pdf Accessed April 3, 2020.
+
+50. Prison-to-College Pipeline. Institute for Justice and Opportunity at John Jay College. https://justiceandopportunity.org/educational-pathways/prison-to-college-pipeline/ Accessed May 8, 2020.
 
 50. “Prisons Can Seriously Damage your Mental Health.” Prison Reform Trust. http://www.prisonreformtrust.org.uk/uploads/documents/Mentalhealthsmall.pdf Accessed April 28, 2020.
 
