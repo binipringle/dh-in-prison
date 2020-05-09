@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: 6. Prison-to-College Pipeline at Otisville: a Case Study and Possible Proposal
+title: 6. P2CP at Otisville - a Case Study and Possible Proposal
 author:
 editor: Sabina Pringle
 rights:
@@ -73,7 +73,5 @@ A model-in-development for an introduction to digital humanities course for pris
 ---
 
 <a href="{{ site.baseurl }}/texts/7-maintenance/">7. Maintenance and Sustainability</a>
-
-<a href="{{ site.baseurl }}/texts/5-minicomp/">Back</a>
 
 ---
