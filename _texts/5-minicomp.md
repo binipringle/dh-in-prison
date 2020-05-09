@@ -99,7 +99,7 @@ For security reasons it might be best if students worked on the same computer in
 
 ---
 
-<a href="{{ site.baseurl }}/texts/7-maintenance/">7. Maintenance and Sustainability</a>
+<a href="{{ site.baseurl }}/texts/6-casestudy/">6. Prison-to-College Pipeline at Otisville: A Case Study and Possible Proposal</a>
 
 <a href="{{ site.baseurl }}/texts/4-prisconstraints/">Back</a>
 
