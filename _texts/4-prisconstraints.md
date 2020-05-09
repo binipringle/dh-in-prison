@@ -94,12 +94,10 @@ Years ago, my first boyfriend was incarcerated for something foolish he had done
 
 A Prison Reform Trust report found that isolation from families and social networks, austere surroundings, loss of privacy, poor physical and hygienic conditions, aggression, bullying, fear, suspicion, the attitudes of unsympathetic and uninformed staff, lack of purposeful activity, loss of personal control, loss of power to act, loss of identity, pressure to escape or to take drugs, shame and stigmatization, uncertainty and concern about reentry all have severe negative effects on mental health (“Prisons can Seriously Damage your Mental Health”).  Under prison conditions, people shut down. Many turn to religion. Others seek solace in drugs. Prison is about as unconducive a learning environment as one can get.
 
-Prison schedules and regimens put incarcerated students under a lot of stress, which is never a good thing for study. Humanities courses are a good way to push back against the disassociation many imprisoned people experience when confined because they help us make connections between personal experience and other contexts, and because they push boundaries and unsettle accepted paradigms, thus engaging the mind. Learning to do humanities research through praxis with digital tools further helps people engage, even under duress, because it is fun. Fun is a proven pedagogical method to engage students. Building is empowering and building digital artifacts in collaboration with others will build student communities in the prison classroom. 
+Prison schedules and regimens put incarcerated students under a lot of stress, which is never a good thing for study. Humanities courses are a good way to push back against the disassociation many imprisoned people experience when confined because they help us make connections between personal experience and other contexts, and because they push boundaries and unsettle accepted paradigms, thus engaging the mind. Learning to do humanities research through praxis with digital tools further helps people engage, even under duress, because it is fun. Fun is a proven pedagogical method to engage students. Building is empowering and building digital artifacts in collaboration with others will build student communities in the prison classroom.
 
 ---
 
 <a href="{{ site.baseurl }}/texts/5-minicomp/">5. Minimal Computing</a>
-
-<a href="{{ site.baseurl }}/texts/3-envscan/">Back</a>
 
 ---

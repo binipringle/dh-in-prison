@@ -60,6 +60,4 @@ In the United States, education is, arguably, not a right. While the U.S. consti
 
 <a href="{{ site.baseurl }}/texts/3-envscan/">3. Environmental Scan</a>
 
-<a href="{{ site.baseurl }}/texts/1-introduction/">Back</a>
-
 ---

@@ -18,6 +18,4 @@ DH in Prison and Intro to DH are hosted on Reclaim Hosting, an internet hosting 
 
 <a href="{{ site.baseurl }}/texts/8-conclusion/">8. Conclusion</a>
 
-<a href="{{ site.baseurl }}/texts/6-casestudy/">Back</a>
-
 ---
