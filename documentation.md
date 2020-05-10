@@ -5,14 +5,6 @@ author: Sabina Pringle
 source: Ed documentation by Alex Gil
 ---
 
-## Contents
-{:.no_toc}
-
-* ToC
-{:toc}
-
----
-
 This is a static site built with Jekyll using the [Ed](https://elotroalex.github.io/ed/documentation/) Jekyll theme.
 
 ### To make a copy of this site and run it on your computer
