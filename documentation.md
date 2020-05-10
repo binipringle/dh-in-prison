@@ -5,7 +5,6 @@ author: Sabina Pringle
 source: Ed documentation by Alex Gil
 ---
 
----
 This is a static site built with Jekyll using [Ed](https://elotroalex.github.io/ed/documentation/).
 
 ### To make a copy of this site and run it on your computer
@@ -38,7 +37,7 @@ Done! To see if DH in Prison is working properly, tell Jekyll to serve by typing
 $ jekyll serve
 ~~~
 
-If the site was rendered, copy the url from your terminal log and paste it into your browser (I like Firefox). This url usually looks something like this `http://127.0.0.1:4000/dh-in-prison`. Now you should be looking at your own working version of DH in Prison, served from your computer without relying on the internet.
+If the site was rendered, copy the url from your terminal log and paste it into your browser (my preference is Firefox). This url usually looks something like this `http://127.0.0.1:4000/dh-in-prison`. Now you should be looking at your own working version of DH in Prison, served from your computer without relying on the internet.
 
 ### If the site did not render
 
