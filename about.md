@@ -20,6 +20,6 @@ Minimal computing work done by digital humanists provided the answer to this que
 This site is built with <a href="http://elotroalex.github.io/ed//">Ed.</a>, a <a href="https://jekyllrb.com/">Jekyll</a> theme. To use Ed. (and for instructions on cloning a site built with Ed.) follow the installation steps described in its
 [documentation page](http://minicomp.github.io/ed/documentation).
 
-You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my work published on this site. If you are interested in using the framework rather than the content of this site, consider setting it up directly from <a href="http://elotroalex.github.io/ed//">Ed.</a>, which has excellent documentation and is what I used to build this site.
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of my work published on this site. Work by others published on this site may have different licences and copyrights, as clearly indicated on its page. If you are interested in using the framework rather than the content of this site, consider setting it up directly from <a href="http://elotroalex.github.io/ed//">Ed.</a>, which has excellent documentation and is what I used to build this site. If you would like to contribute to this project and/or are interested in collaborating with me in the next stage of the project (maybe look for a grant?) please write to me or write to dhinprison@gmail.com.  
 
 ---

@@ -3,31 +3,28 @@ layout: page
 title: Credits
 ---
 
-### [Sabina Pringle](https://github.com/binipringle) | Adjunct lecturer in English, digital humanist, legal assistant, newly admitted student at CUNY School of Law
+### [Sabina Pringle](https://sabinapringle.commons.gc.cuny.edu/) | Digital Humanist,  Legal Assistant, Adjunct Lecturer in English
 
-Forthcoming
+Sabina Pringle is a candidate for the Master of Arts in Digital Humanities at The Graduate Center – CUNY in May 2020. She is adjunct Lecturer in English at City College of New York and Legal Assistant in the Office of Legal Affairs and Labor Relations at Baruch College and will be a student in the JD in Public Interest Law evening program at CUNY School of Law from August 2020. Sabina was Fulbright Teaching Assistant at Universidad del Atlántico, Barranquilla, Colombia for academic years 2015-16 and 2016-17. BA in English Literature, City College of New York.
 
+### [Ed](https://elotroalex.github.io/ed/) | Jekyll theme by Alex Gil
 
-### [Gisella Lopez](https://forthcoming) | Artist
+Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility, durability, ease and flexibility. Its underlying technology is easy to learn and teach, and can produce beautifully rendered scholarly or reading editions of texts meant to last.
 
-Forthcoming
+### [Gisella Lopez Bautista](https://www.behance.net/giseB) | Artist
 
-### [Ilian Sanchez](http://forthcoming) | Artist
+Gisella Lopez is an artist from Barranquilla, Colombia, and founder of La Isla Bonita Gallery, an independent Caribbean artists' collective that has been operating since 2014 and hosts Brujeria, a yearly collective exhibition and performing arts event that brings together artists, critics and the public in Barranquilla. Gise was one of the principle investigators of the research group Colectivo Caribe Noseque from 2017 to 2019. Graduate of the School of Fine Arts of the Universidad del Atlantico, Barranquilla, Gise's 2017 capstone, "Lo bueno siempre jode," involved intervening in public space by papering the sides of buildings in Barranquilla's Barrio Centro with 5,000 posters of La Negra Eufemia, a character in the novels of Gabriel Garcia Marquez. Gise has exhibited her work at w (2015) x (2016), y (2017), z (2018), and xyz (2019). She has painted a series of murals in Barranquilla and Bogota, as well as numerous posters and signs for shops and market stalls in the Barrio Bajo of Barranquilla and performing arts events in Bogota.  
 
-Forthcoming
+### [Ilian David Sanchez Rodriguez](https://pirryma3.wixsite.com/iliansanchez) | Artist
 
-### [Graduate Center Digital Initiatives](https://forthcoming) | Search master
-
-I'm leaving this as an example for formatting: After having studied digital humanities at the Ecole nationale des Chartes in Paris, Johann has worked in France as a librarian at the Bibliothèque interuniversaire de Santé, where he most notably contributed to the [Vesalius project](http://www3.biusante.parisdescartes.fr/vesale/debut.htm), the digital edition of several works by the great anatomist Andreas Vesalius.
-
+Ilian Sanchez is an artist who works with a variety of media including paint, spray paint, photography, video and sound. Ilian is a graduate of the School of Fine Arts of the Universidad del Atlantico, Barranguilla, and was one of the founders and principal investigators of the research group Colectivo Caribe Noseque from 2016 to 2019. Ilian is co-director of La Isla Bonita Gallery and has produced its Brujeria arts event every year from 2016 to 2019. Ilian's won an incentivo prize for his capstone and 2017 exhibition Dirty Money which was exhibited in the Something Gallery in Bogota. Ilian's work has been exhibited at at w (2015) x (2016), y (2017), z (2018), and xyz (2019). Ilian creates street art and has intervened in public spaces with large scale graffiti in Barranquilla, Cartagena, Bogota, Barcelona, Madrid and Valencia. In collaboration with Gisella Bautista he has painted murals in Barranquilla and Bogota. Ilian's independent video productions include Nueva Era (2020), B.A.E.P. (2020), and Greend Blood (2019).
 
 ---
 
 ## Acknowledgments
 
-I am leaving this as a model for writing my acknowledgments: As many open source projects, Ed is the work of community. The project starts with the open web, and everything in between leading to [Jekyll](https://jekyllrb.com/) and the wonderful team who wrangled that Ruby in our favor. The theme stylesheets are built on top of [Lanyon](https://github.com/poole/lanyon), a Jekyll theme based on [Poole](http://getpoole.com), "the Jekyll butler," both created by [Mark Otto](https://github.com/mdo) and distributed with an MIT license. Thanks, Mark, for your helpful streamlining! Special hat tips to brother-in-markdown-arms, [Chris Forster](https://github.com/c-forster), and the generous [Sylvester Keil](https://github.com/inukshuk/) for his work on Jekyll Scholar.
+As many digital humanities projects, DH in Prison/Intro to DH is built upon and informed by community work. I am strongly indebted to the CUNY Graduate Center [Digital Humanities Program](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities) for facilitating many formal and informal gatherings, workshops, academic events and conversations that inspired and nourished my work. I want to particularly thank my thesis advisor Matthew K. Gold who inspired me, encouraged me, helped me sharpen, develop and scope my ideas, bore with me and supported me along the way. I am also deeply grateful to Patrick Smyth for his encouragement and support (Patrick told me back in 2018 that this project "has legs," which, coming from Patrick, meant a great deal to me) and for kindling in me, through his awesome pedagogy, a real love for coding and exploring the affordances of digital tools for doing meaningful humanities work. I want to express my heartfelt gratitude to all the [GC Digital Fellows](https://digitalfellows.commons.gc.cuny.edu/) who welcomed me weekly in their office hours, helped me when I got stuck, taught me in their workshops and always generously shared their expertise. Particular thanks to Javier Otero Peña, Olivia Ildefonso, Filipa Calado and Rafael Davis Portelo. I want to thank Lisa Marie Rhody for her encouragement and advice and for organizing the GC DHRI, which is a model that guides this project in many ways. I am grateful to Alex Gil, Marii Nyröp and the [Global Outlook::Digital Humanities](http://www.globaloutlookdh.org/) for their work and conversations which inspired, informed and guided mine, and specifically to Alex for the [Ed.](https://elotroalex.github.io/ed/) Jekyll theme and for its excellent documentation.
 
+I want to extend my sincere thanks to my fellow student and friend Carolyn McDonough, who listened to me, gave me lots of ideas, supported me and shared much-needed comic relief in our conversations about hair shirts and implanted valves. I want to thank Irma Ostroff and Lance Jay Brown for looking at endless iterations of this project, sharing my enthusiasm, and encouraging and listening to me. I am grateful to Olga Dais for her continued support and encouragement, and to Lisa Hochstadt for her ongoing encouragement and support and for helping me prepare my lightning talk. I want to thank Ilian David Sanchez Rodriguez and Gisella Lopez Bautista for their support and for jumping in with their awesome art work.
 
-We are strongly indebted to the research work and conversations stemming out of our [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/)—or as we like to call it: #xpmethod; the wonderful international comradery of [GO::DH](http://www.globaloutlookdh.org/); and of course, the support of our [Columbia University Libraries](http://library.columbia.edu/) and its cozy [Studio@Butler](https://studio.cul.columbia.edu/).
-
-...and to the writers that inspire us to scribble notes on the margins we protect with our work. Thank you.
+Last but not least, I want to thank the students I tutored at Metropolitan Detention Center Brooklyn for helping me understand some of the things that they need.
