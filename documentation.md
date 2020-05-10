@@ -5,7 +5,7 @@ author: Sabina Pringle
 source: Ed documentation by Alex Gil
 ---
 
-This is a static site built with Jekyll using [Ed](https://elotroalex.github.io/ed/documentation/).
+This is a static site built with Jekyll using [Ed](https://elotroalex.github.io/ed/).
 
 ### To make a copy of this site and run it on your computer:
 
