@@ -97,7 +97,3 @@ A Prison Reform Trust report found that isolation from families and social netwo
 Prison schedules and regimens put incarcerated students under a lot of stress, which is never a good thing for study. Humanities courses are a good way to push back against the disassociation many imprisoned people experience when confined because they help us make connections between personal experience and other contexts, and because they push boundaries and unsettle accepted paradigms, thus engaging the mind. Learning to do humanities research through praxis with digital tools further helps people engage, even under duress, because it is fun. Fun is a proven pedagogical method to engage students. Building is empowering and building digital artifacts in collaboration with others will build student communities in the prison classroom.
 
 ---
-
-<a href="{{ site.baseurl }}/texts/5-minicomp/">5. Minimal Computing</a>
-
----
