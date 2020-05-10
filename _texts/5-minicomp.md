@@ -98,7 +98,3 @@ The computers, router, network switch, external hard drives and USB sticks could
 For security reasons it might be best if students worked on the same computer in each class session for the duration of the course and saved their work on that computer. It would be good if students could also save their work on USBs, which could be labeled and kept with the laptops. One of the exciting challenges that this course presents is to map out and prepare everything needed for students to achieve course learning goals. In traditional digital humanities courses, we rely greatly on resources available through the internet. Here, everything would have to live on sixteen laptops, USB sticks and the external hard drive(s).
 
 ---
-
-<a href="{{ site.baseurl }}/texts/6-casestudy/">6. P2CP at Otisville - A Case Study and Possible Proposal</a>
-
----

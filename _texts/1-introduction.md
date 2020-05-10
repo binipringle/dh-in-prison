@@ -25,6 +25,3 @@ Most correctional facilities are under-resourced and low-tech, and students are 
 With a firm belief that education is a real means to help people improve their lives, this paper explores how a digital humanities course can be taught in prison and why the humanities, and not just technical skills, contribute to laying foundations for helping system-impacted people rebuild their lives and enriching the communities they return to after release.
 
 ---
-<a href="{{ site.baseurl }}/texts/2-edinprison/">2. Education in Prison</a>
-
----

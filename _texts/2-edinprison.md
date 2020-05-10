@@ -57,7 +57,3 @@ In the United States, education is, arguably, not a right. While the U.S. consti
 [^2]: Cook v. Raimondo (Rhode Island) and Gary B. v. Snyder (Michigan), both 2018.
 
 ---
-
-<a href="{{ site.baseurl }}/texts/3-envscan/">3. Environmental Scan</a>
-
----

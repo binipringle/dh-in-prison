@@ -15,7 +15,3 @@ While most websites are written in markup languages such as Extensible Markup La
 DH in Prison and Intro to DH are hosted on Reclaim Hosting, an internet hosting service that provides educators, institutions and students domains and web hosting. These domains cost at most $65 a year are transferable, so if this project grows into larger community effort, it will continue to have its domains
 
 ---
-
-<a href="{{ site.baseurl }}/texts/8-conclusion/">8. Conclusion</a>
-
----
