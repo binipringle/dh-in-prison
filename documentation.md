@@ -41,7 +41,9 @@ If the site was rendered, copy the url from your terminal log and paste it into 
 
 ### If the site did not render:
 
-And you had errors you could not resolve, follow the installation instructions in the [documentation of Ed](https://elotroalex.github.io/ed/documentation/), replacing "ed" with "dh-in-prison" wherever necessary. Ed is the Jekyll theme that I used to build DH in Prison, so if what you want to do is to completely change the content of DH in Prison and build your own site with its framework, I strongly recommend that you clone Ed instead and use Ed to build your site because Ed's documentation is way better than mine.
+And you had errors you could not resolve, follow the installation instructions in the [documentation of Ed](https://elotroalex.github.io/ed/documentation/), replacing "ed" with "dh-in-prison" wherever necessary.
+
+Ed is the Jekyll theme that I used to build DH in Prison, so if what you want to do is to completely change the content of DH in Prison and build your own site with its framework, I strongly recommend that you clone Ed instead and use Ed to build your site because Ed's documentation is way better than mine.
 
 If, on the other hand, you are interested in talking about, contributing to or otherwise getting involved in DH in Prison, see its sibling site [Intro to DH](https://binipringle.github.io/intro-to-dh/) and write to me at springle@ccny.cuny.edu or [https://github.com/binipringle ](https://github.com/binipringle)  
 
