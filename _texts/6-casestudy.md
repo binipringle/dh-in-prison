@@ -34,11 +34,11 @@ An introduction to digital humanities course for fifteen students would require 
 
 ## Programs and software
 
-The computer programs and learning resources for the envisioned introduction to digital humanities course would be pre-installed on student laptops and/or the instructor(s)’s laptop. Students would submit assignments, share their work with each other and collaborate on projects through Ubuntu’s Public Folder, which would be accessed through the local network, and/or by using USB drives. Some of the built-in applications that come with Ubuntu, including the Libre Office suite and the three games (solitaire, mines and sudoku), could be made available to students.
+In traditional digital humanities courses, we rely greatly on resources available through the internet. Here, everything would have to live on sixteen laptops, USB sticks and the external hard drive(s). The computer programs and learning resources for the envisioned introduction to digital humanities course would be pre-installed on student laptops and/or the instructor(s)’s laptop. Students would submit assignments, share their work with each other and collaborate on projects through Ubuntu’s Public Folder, which would be accessed through the local network, and/or by using USB drives. Some of the built-in applications that come with Ubuntu, including the Libre Office suite and the three games (solitaire, mines and sudoku), could be made available to students.
 
 ## Course delivery
 
-A lot of the envisioned course would be delivered digitally in class on the course laptops. Readings can be both digital and printed. The printed reading matter can be assigned as homework. A lot of coding logic can also be assigned as homework and done with pen and paper, then tried out in class. Students should probably each be assigned a laptop at the beginning of the semester and continue to use the same laptop throughout the semester, as this will allow them to save things they are working on individually and give them ownership over their work and accountability for what they do with the laptop.
+A lot of the envisioned course would be delivered digitally in class on the course laptops. Readings can be both digital and printed. The printed reading matter can be assigned as homework. A lot of coding logic can also be assigned as homework and done with pen and paper, then tried out in class. Students should probably each be assigned a laptop at the beginning of the semester and continue to use the same laptop throughout the semester, as this would allow them to save things they are working on individually and give them ownership over their work and accountability for what they do with the laptop.
 
 Because learning digital skills usually involves a lot of practice, it would be great if students were allowed to use their laptops in tutoring and/or study sessions outside of class.
 
@@ -50,7 +50,9 @@ The envisioned course site follows and must continue to follow the World Wide We
 
 It would probably be best if all hardware remained on the facility. This way the security screening of the hardware would only have to be done twice, once at the beginning of the course and once at the end (unless it stays in the prison for subsequent use). If the instructor(s) needed to bring additional material such as computer programs, software or files to the facility, it might be a good idea to bring these on a read-only CD-ROM rather than a USB because in New York State prisons all removable storage devices are contraband (Directive 4911, Attachment A).  
 
-For security reasons it might be best if students worked on the same computer in each class session for the duration of the course and saved their work on that computer. It would be good if students could also save their work on USBs, which could be labeled and kept with the laptops. One of the exciting challenges that this course presents is to map out and prepare everything needed for students to achieve course learning goals. In traditional digital humanities courses, we rely greatly on resources available through the internet. Here, everything would have to live on sixteen laptops, USB sticks and the external hard drive(s).
+For security reasons it might be best if students worked on the same computer in each class session for the duration of the course and saved their work on that computer. It would be good if students could also save their work on USBs, which could be labeled and kept with the laptops.
+
+One of the exciting challenges that this course presents is to map out and prepare everything students need to achieve course learning goals in ways that work around significant prison-specific constraints.
 
 # Hardware cost estimate
 
