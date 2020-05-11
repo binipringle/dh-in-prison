@@ -171,6 +171,8 @@ Accessed May 2, 2020.
 
 Wax. Minicomp.  https://minicomp.github.io/wax/ Accessed April 19, 2020.
 
+White, Natasha. "OPINION: No one belongs on Rikers Island." Queens Daily Bugle, April 27, 2020. https://queenseagle.com/all/opinion-no-one-belongs-on-rikers-island-ever Accessed May 11, 2020.
+
 Wikipedia contributors. "Global Tel Link." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 31 Oct. 2019. https://en.wikipedia.org/wiki/Global_Tel_Link Accessed 11 Nov. 2019.
 
 Wikipedia contributors. "International Covenant on Economic, Social and Cultural Rights." Wikipedia, The Free Encyclopedia, 12 April 2020. https://en.wikipedia.org/w/index.php?title=International_Covenant_on_Economic,_Social_and_Cultural_Rights&oldid=950548673 Accessed May 8, 2020.
