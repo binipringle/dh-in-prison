@@ -48,7 +48,9 @@ The envisioned course site follows and must continue to follow the World Wide We
 
 ## Security
 
-It would probably be best if all hardware remained on the facility. If the instructor(s) needed to bring additional material such as computer programs, software or files to the facility, it might be a good idea to bring these on a read-only CD-ROM rather than a USB because in New York State prisons all removable storage devices are contraband (Directive 4911, Attachment A).  
+It would probably be best if all hardware remained on the facility. This way the security screening of the hardware would only have to be done twice, once at the beginning of the course and once at the end (unless it stays in the prison for subsequent use). If the instructor(s) needed to bring additional material such as computer programs, software or files to the facility, it might be a good idea to bring these on a read-only CD-ROM rather than a USB because in New York State prisons all removable storage devices are contraband (Directive 4911, Attachment A).  
+
+For security reasons it might be best if students worked on the same computer in each class session for the duration of the course and saved their work on that computer. It would be good if students could also save their work on USBs, which could be labeled and kept with the laptops. One of the exciting challenges that this course presents is to map out and prepare everything needed for students to achieve course learning goals. In traditional digital humanities courses, we rely greatly on resources available through the internet. Here, everything would have to live on sixteen laptops, USB sticks and the external hard drive(s).
 
 # Hardware cost estimate
 

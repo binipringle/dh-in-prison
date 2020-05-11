@@ -73,6 +73,8 @@ A classroom limited by the significant constraints particular to prisons is an i
 
 ---
 
+---
+
 # Solutions for working under prison constraints
 
 ## Hardware
@@ -85,16 +87,10 @@ In the setup I imagine in prison, the LAN could be established in two ways. One 
 
 ## Software and operating system
 
-In the course model I developed as part of this project I made course readings and tutorials for learning technical skills available to students on a static site built with Ed., a Jekyll theme developed by Gil with Jekyll (a static site generator), written in Ruby (a programming language).  This pedagogical use might be a new use of Ed., but it is adapting beautifully. At one point I considered using Hugo, another static site generator, because Ed. does not work very well with Windows as of yet (at that point I was considering using PCs).
+In the [Intro to DH](https://binipringle.github.io/intro-to-dh/) course model I developed as part of this project course readings and tutorials for learning technical skills are made available to students on a static site built with Ed., a Jekyll theme developed by Alex Gil.  This pedagogical use might be a new use of Ed., but it is adapting beautifully. At one point I considered using Hugo, another static site generator, because Ed. does not work very well with Windows as of yet (at that point I was considering using PCs).
 
 I chose to work with Linux rather than Mac OS or Windows because Linux is free and open source. Furthermore, it bundles Ed. beautifully.[^11] A big concern when making the choice to go with Linux was that for purposes of using their newly acquired technical skills to gain employment after leaving prison, it would be good for students to be familiar with an operating system more widely used. Macs were out on account of their price. After some deliberation I bought a cheap Dell laptop, wiped out its Windoows operating system and installed Ubuntu (Linux), to see how that felt. It felt great and will be perfect for students who are learning to code.
 
 [^11]: When I tried to build a site with Ed. on my Mac, the built-in Apple developer tools got in the way and made me lose a great deal of time. In the end I gave up and installed Ubuntu on a cheap Dell. It works beautifully.
 
-## Security
-
-The computers, router, network switch, external hard drives and USB sticks could be taken into the prison once and remain in the prison's educational facilities for the duration of the course. This way the security screening of the hardware would only have to be done twice, once at the beginning of the course and once at the end (unless it stays in the prison for subsequent use). The instructor would need to regularly bring in (and maybe out) data on a USB stick, external hard drive or CD-ROM in case some of the student projects require additional datasets or other resources. At any given time, the instructor might also need to reinstall or install software depending on student needs.
-
-For security reasons it might be best if students worked on the same computer in each class session for the duration of the course and saved their work on that computer. It would be good if students could also save their work on USBs, which could be labeled and kept with the laptops. One of the exciting challenges that this course presents is to map out and prepare everything needed for students to achieve course learning goals. In traditional digital humanities courses, we rely greatly on resources available through the internet. Here, everything would have to live on sixteen laptops, USB sticks and the external hard drive(s).
-
----
+___
