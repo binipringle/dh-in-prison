@@ -13,14 +13,7 @@ You will need to use your terminal. If you don't remember much about how to use 
 
 ### Once you are in your terminal, first try the "easy" or "lucky" way to install:
 
-Create a folder in your Desktop where you want your copy of this site. I would call my folder 'projects.' When you have created your folder (or directory), go into it with the cd (change directory) command, like this:
-
-
-~~~ bash
-$ cd Desktop
-$ mkdir projects
-$ cd projects
-~~~
+Create a folder in your Desktop where you want your copy of this site and navigate into that folder.
 
 Now type or paste the following commands:
 
