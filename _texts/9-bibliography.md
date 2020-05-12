@@ -5,7 +5,7 @@ title: Bibliography
 
 I'm working on rendering the bibliography (that's why those numbers are there - it's not my intention to number entries). It'll look better soon!
 
-1. “Advanced Technologies Group.” Business Insider. https://markets.businessinsider.com/stocks/advanced_technologies_group/company-profile  Accessed April 3, 2020
+14. Access Securepak. “Catalog.” Access Securepak. https://www.accesscatalog.com/index.html?PageID=26 Accessed December 9, 2019.
 2. American Civil Liberties Union. “America’s Addiction to Juvenile Incarceration: State by State.” American Civil Liberties Union, 2018. https://www.aclu.org/issues/juvenile-justice/youth-incarceration/americas-addiction-juvenile-incarceration-state-state
 Accessed February 23, 2020.
 3. American Civil Liberties Union. "Mass Incarceration." American Civil Liberties Union, 2020. https://www.aclu.org/issues/smart-justice/mass-incarceration Accessed May 8, 2020.
@@ -17,13 +17,11 @@ Accessed April 3, 2020.
 8. Bender, Kathleen. “Education Opportunities in Prison Are Key to Reducing Crime.” Center for American Progress, March 2, 2018. https://www.americanprogress.org/issues/education-k-12/news/2018/03/02/447321/education-opportunities-prison-key-reducing-crime/ Accessed February 23, 2020.
 9. Bouffard, Karen. “Could Norway’s mental health focus reduce incarceration in Michigan?” Detroit News, October 10, 2019. https://www.detroitnews.com/story/news/special-reports/2019/10/10/norway-prison-model-fixing-mental-illness-problems-michigan-prisons/1504226001/ Accessed November 8, 2019.
 10. Bureau of Justice Statistics Bulletin. “Prisoners 1925-81.” U.S. Department of Justice. December, 1982. https://www.bjs.gov/content/pub/pdf/p2581.pdf  Accessed May 8, 2020.
-11. “Buying a JP3 Player.” JPay.
-https://www.jpay.com/jpayHelp/Content/products%20and%20services/JPay%20Credits/Buying%20a%20JP3%20player.htm Accessed December 7, 2019.
-12. “Buy Media.” JPay. https://www.jpay.com/PMusic.aspx  Accessed December 7, 2019.
+1. Business Insider. “Advanced Technologies Group.” Business Insider. https://markets.businessinsider.com/stocks/advanced_technologies_group/company-profile  Accessed April 3, 2020
 13. Carson, Anne E. and Elizabeth Anderson. “Incarcerated people in 2015.” Bureau of Justice Statistics, U.S. Department of Justice, December 2016. https://www.bjs.gov/content/pub/pdf/p15.pdf Accessed February 23, 2020.
-14. “Catalog.” Access Securepak. https://www.accesscatalog.com/index.html?PageID=26 Accessed December 9, 2019.
 15. Carville, Olivia. “Ex-Cons Create ‘Instagram for Prisons,’ and Wardens Are Fine With That.” Bloomberg. February 6, 2019. https://www.bloomberg.com/news/features/2019-02-06/ex-cons-create-instagram-for-prisons-and-wardens-are-fine-with-that Accessed May 2, 2020.
 16. Childress, Sarah. “Michelle Alexander: ‘A System of Racial and Social Control’.” Thirteen. Public Broadcasting System, April 29, 2014. https://www.pbs.org/wgbh/frontline/article/michelle-alexander-a-system-of-racial-and-social-control/ Accessed April 28, 2020.
+11. Cision PR Newswire. “JPay Proudly Makes KA Lite Videos Available to Inmates, Providing Much-Needed Access to Free Education.” Cision PR Newswire, February 24, 2016.  https://www.prnewswire.com/news-releases/jpay-proudly-makes-ka-lite-videos-available-to-inmates-providing-much-needed-access-to-free-education-300224916.html Accessed May 2, 2020.
 17. Chung, Jean. “Felony Disenfranchisement: A Primer.” The Sentencing Project, June 27, 2019. https://www.sentencingproject.org/publications/felony-disenfranchisement-a-primer/ Accessed February 23, 2020.
 18. Cobb, Liam. “Captive Audience: How Companies Make Millions Charging Prisoners to Send An Email.” Wired, August 3, 2018. https://www.wired.com/story/jpay-securus-prison-email-charging-millions/ Accessed April 19, 2020.
 19. Conserving Sudanese Cultural Heritage. British Council. https://www.britishcouncil.org/arts/culture-development/cultural-protection-fund/projects/sudan-library Accessed April 19, 2020.
@@ -35,6 +33,7 @@ https://www.jpay.com/jpayHelp/Content/products%20and%20services/JPay%20Credits/B
 25. Department of Education. Notice Inviting Postsecondary Educational Institutions To Participate in Experiments Under the Experimental Sites Initiative; Federal Student Financial Assistance Programs Under Title IV of the Higher Education Act of 1965, as Amended. Federal Register Doc. 2015-18994. August 3, 2015. https://www.federalregister.gov/documents/2015/08/03/2015-18994/notice-inviting-postsecondary-educational-institutions-to-participate-in-experiments-under-the Accessed September 30, 2019.
 26. Directive 4911 dated 06/28/2019, “Packages and Articles Sent or Brought to Facilities.” New York State Corrections and Community Supervision. https://doccs.ny.gov/system/files/documents/2019/08/4911%20Packages%20%26%20Articles%20Sent%20or%20Brought%20to%20Facilities.pdf Accessed April 25, 2020.
 27. Eldridge, Taylor Elizabeth. “The Big Business of Prisoner Care Packages.” The Marshall Project. December 21, 2017. https://www.themarshallproject.org/2017/12/20/the-big-business-of-prisoner-care-packages Accessed May 2, 2020.
+100. Federal Bureau of Prisons Evaluation and Inspection Division. Review of the Federal Bureau of Prisons' Contraband Interdiction Efforts. Federal Bureau of Prisons, June 2016. https://oig.justice.gov/reports/2016/e1605.pdf Accessed May 12, 2020. 
 28. First Step Act of 2018. S.3747 — 115th Congress (2017-2018). United States Congress. https://www.congress.gov/bill/115th-congress/senate-bill/3747/titles Accessed April 28, 2020.
 29. Flikshop. https://www.flikshop.com/ Accessed April 3, 2020
 30. Gil, Alex. “The User, the Learner and the Machines We Make.” Minimal Computing, A Working Group of GO::DH. May 15, 2015. https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/ Accessed April 20, 2020.
@@ -43,7 +42,9 @@ https://www.jpay.com/jpayHelp/Content/products%20and%20services/JPay%20Credits/B
 33. Hartney, Christopher and Linh Vuong. “Created Equal: Racial and Ethnic Disparities in the US Criminal Justice System.” Oakland, CA: National Council on Crime and Delinquency, 2009.  http://www.nccdglobal.org/sites/default/files/publication_pdf/created-equal.pdf
 Accessed February 23, 2020.
 34. JPay Lantern. JPay. http://jpayslantern.com/education/ Accessed April 19, 2020.
-35. “JPay Proudly Makes KA Lite Videos Available to Inmates, Providing Much-Needed Access to Free Education.” Cision PR Newswire, February 24, 2016.  https://www.prnewswire.com/news-releases/jpay-proudly-makes-ka-lite-videos-available-to-inmates-providing-much-needed-access-to-free-education-300224916.html Accessed May 2, 2020.
+35. Jpay. “Buying a JP3 Player.” JPay.
+https://www.jpay.com/jpayHelp/Content/products%20and%20services/JPay%20Credits/Buying%20a%20JP3%20player.htm Accessed December 7, 2019.
+12. Jpay. “Buy Media.” JPay. https://www.jpay.com/PMusic.aspx  Accessed December 7, 2019.
 36. Justice-in-Education Initiative. The Society of Fellows and Heyman Center for the Humanities, Columbia University. http://justiceineducation.columbia.edu/ Accessed May 8, 2020.
 37. Kaeble, Danielle and Mary Cowhig. “Correctional Populations in the United States, 2016.” U.S. Bureau of Justice Statistics, April 2018. https://www.bjs.gov/content/pub/pdf/cpus16.pdf Accessed February 23, 2020.
 38. Karthaus, Roland, Lucy Block and Anthony Hu. Redesigning prison: the architecture and ethics of rehabilitation. The Journal of Architecture 24:2 193-222, 2019. DOI: 10.1080/13602365.2019.1578072 https://www.tandfonline.com/doi/full/10.1080/13602365.2019.1578072?scroll=top&needAccess=true Accessed May 2, 2020.

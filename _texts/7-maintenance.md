@@ -12,6 +12,9 @@ The site architecture/code of DH in Prison and Intro to DH depend on Ed., the Je
 
 While most websites are written in markup languages such as Extensible Markup Language (XML), Intro to DH uses kramdown syntax, a variation of Markdown syntax, which, as human readable plain text, requires a much lower learning curve than markup languages do. This makes content easy to update and change without requiring programming expertise, wherefore this project can easily expand and grow. By using kramdown syntax we eliminate the need to have technical experts deploy and maintain this work, thus expanding access to contributors.
 
-DH in Prison and Intro to DH are hosted on Reclaim Hosting, an internet hosting service that provides educators, institutions and students domains and web hosting. These domains cost at most $65 a year are transferable, so if this project grows into larger community effort, it will continue to have its domains
+DH in Prison and Intro to DH will be hosted on Reclaim Hosting, an internet hosting service that provides educators, institutions and students domains and web hosting.[^1] These domains cost at most $65 a year are transferable, so if this project grows into larger community effort, it will continue to have its domains.
+
+[^1]: At the time of deposit the two websites are hosted on GitHub Pages while I grapple with - for me - Reclaim Hosting's surprisingly steep learning curve.
+
 
 ---
