@@ -3,6 +3,8 @@ layout: page
 title: Bibliography
 ---
 
+I'm working on rendering the bibliography (that's why those numbers are there - it's not my intention to number entries). It'll look better soon!
+
 1. “Advanced Technologies Group.” Business Insider. https://markets.businessinsider.com/stocks/advanced_technologies_group/company-profile  Accessed April 3, 2020
 2. American Civil Liberties Union. “America’s Addiction to Juvenile Incarceration: State by State.” American Civil Liberties Union, 2018. https://www.aclu.org/issues/juvenile-justice/youth-incarceration/americas-addiction-juvenile-incarceration-state-state
 Accessed February 23, 2020.
