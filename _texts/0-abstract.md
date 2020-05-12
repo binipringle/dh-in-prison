@@ -10,3 +10,9 @@ With the aim of extending academic opportunities to system-impacted students, th
 The course model included in this project adapts a series of tutorials developed by the Graduate Center Digital Fellows for the Graduate Center Digital Initiatives (GCDI) Digital Humanities Research Institute (GC DHRI), which cover basic technical skills students will need. The model course is designed to be housed on a static site and delivered in a regular classroom equipped with seventeen laptops connected by a local area network. No internet connection is needed. Students will use the laptops to explore the field of digital humanities and engage in DH praxis as they gain expertise in technical skills as well as tools and methods for humanities research. The dual purposes of this pedagogical initiative are, on one hand, to provide students with tools to engage in humanities scholarship and, on the other hand, to learn digital skills which will help them find employment upon release. The technical part of the course covers the command line, version control, HTML and CSS, Jekyll (Ruby) and Python.
 
 The solutions sought in this paper are influenced and inspired by conversations, praxis and ideas that grew out of the field of minimal computing. As such, the envisioned DH in prison course aims to fulfill student needs at minimal cost, keeping in mind monetary cost, cost in labor, learning curves, environmental impact, and independence. A case study and possible proposal to teach this course in the John Jay College of Criminal Justice Prison-to-College Pipeline program at Otisville Correctional Facility is included in chapter five.
+
+---
+
+<A href="#1.-introduction">Next Page: Introduction</A>
+
+[Next Page: 1. Introduction](#1.-introduction)
