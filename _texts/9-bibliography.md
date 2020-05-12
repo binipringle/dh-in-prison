@@ -1,10 +1,6 @@
 ---
 layout: page
 title: Bibliography
-author:
-editor: Sabina Pringle
-source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY. May 2020
-
 ---
 
 1. “Advanced Technologies Group.” Business Insider. https://markets.businessinsider.com/stocks/advanced_technologies_group/company-profile  Accessed April 3, 2020
@@ -60,7 +56,7 @@ Accessed February 23, 2020.
 47. Novick, Lynn and Ken Burns. “College Behind Bars.” Skiff Mountain Films, 2019. Viewed at New York Film Festival, Lincoln Center, August 2019. Streamed on Public Broadcasting System, Thirteen, January 2020. https://www.pbs.org/kenburns/college-behind-bars
 48. NYU Prison Education Program. New York University. https://prisoneducation.nyu.edu/ Accessed May 8, 2020.
 49. Omeka. https://omeka.org/ Accessed April 21, 2020.
-50. Pai, Ajit. “Statement of Chairman Ajit Pai | Re: Promoting Technological Solutions to Combat Contraband Wireless Device Use in Correctional Facilities.” GN Docket No. 13-111 accompanying FCC 17-25 REPORT AND ORDER AND FURTHER NOTICE OF PROPOSED RULEMAKING in the Matter of Promoting Technological Solutions to Combat Contraband Wireless Device Use in Correctional Facilities. Federal Registry: March 24, 2017.
+50. Pai, Ajit. “Statement of Chairman Ajit Pai \| Re: Promoting Technological Solutions to Combat Contraband Wireless Device Use in Correctional Facilities.” GN Docket No. 13-111 accompanying FCC 17-25 REPORT AND ORDER AND FURTHER NOTICE OF PROPOSED RULEMAKING in the Matter of Promoting Technological Solutions to Combat Contraband Wireless Device Use in Correctional Facilities. Federal Registry: March 24, 2017.
 51. Park, Katie, Tom Meagher and Weihua Li. “Tracking the Spread of Coronavirus in Prisons.” The Marshall Project. April 24, 2020. https://www.themarshallproject.org/2020/04/24/tracking-the-spread-of-coronavirus-in-prisons Accessed May 2, 2020.
 52. Pigeonly. https://pigeonly.com/# Accessed April 3, 2020
 53. Prisoner Reentry Institute, The. Mapping the Landscape of Higher Education in New York State Prisons. John Jay College of Criminal Justice Prisoner Reentry Institute: February 2019. http://johnjaypri.org/wp-content/uploads/2019/06/Mapping-the-Landscape-of-Higher-Ed-in-NYS-Prisons-6.10.19.pdf Accessed April 3, 2020.
@@ -101,3 +97,4 @@ Accessed May 2, 2020.
 84. Wikipedia Contributors. “Sneakernet.” Wikipedia, The Free Encyclopedia. https://en.wikipedia.org/wiki/Sneakernet Accessed May 3, 2020.
 85. Yukhnenko D, Sridhar S and Fazel S. A systematic review of criminal recidivism rates worldwide: 3-year update. Wellcome Open Research: 2019:28 ([version 1; peer review: 1 approved, 2 approved with reservations]4) https://doi.org/10.12688/wellcomeopenres.14970.1 Accessed April 12, 2020.
 {.bibliography}
+<p>{% bibliography %}</p>
