@@ -6,6 +6,7 @@ editor: Sabina Pringle
 source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY. May 2020
 
 ---
+
 1. “Advanced Technologies Group.” Business Insider. https://markets.businessinsider.com/stocks/advanced_technologies_group/company-profile  Accessed April 3, 2020
 2. American Civil Liberties Union. “America’s Addiction to Juvenile Incarceration: State by State.” American Civil Liberties Union, 2018. https://www.aclu.org/issues/juvenile-justice/youth-incarceration/americas-addiction-juvenile-incarceration-state-state
 Accessed February 23, 2020.
@@ -99,3 +100,4 @@ Accessed May 2, 2020.
 83. Wikipedia Contributors. “Khan Academy.” Wikipedia, The Free Encyclopedia. https://en.wikipedia.org/wiki/Khan_Academy Accessed April 19, 2020.
 84. Wikipedia Contributors. “Sneakernet.” Wikipedia, The Free Encyclopedia. https://en.wikipedia.org/wiki/Sneakernet Accessed May 3, 2020.
 85. Yukhnenko D, Sridhar S and Fazel S. A systematic review of criminal recidivism rates worldwide: 3-year update. Wellcome Open Research: 2019:28 ([version 1; peer review: 1 approved, 2 approved with reservations]4) https://doi.org/10.12688/wellcomeopenres.14970.1 Accessed April 12, 2020.
+{.bibliography}
