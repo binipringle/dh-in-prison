@@ -75,3 +75,5 @@ Unforeseen expenses	| $100 |	1	| $100
 A model-in-development for an introduction to digital humanities course for prison is on this website's sibling site <a href="https://binipringle.github.io/intro-to-dh/">Intro to DH</a>
 
 ---
+
+![comline0](https://binipringle.github.io/intro-to-dh//assets/img/gise3-full.png)

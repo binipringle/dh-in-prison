@@ -40,6 +40,14 @@ kramdown:
   smart_quotes:   lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# For inclusion of Images (added 4-11)
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
 # Exclusions from the final site
 exclude:
   - optional
