@@ -15,10 +15,6 @@ Gisella López is an artist from the Colombian Caribbean, Founder of **La Isla B
 
 Ilian Sanchez works with a variety of media, including painting, spray paint, photography, video, and other digital media. Co-founder of **La Isla Bonita Gallery**, Ilian produced the yearly artistic event **Brujería** from 2014 to 2019 as well as Barranquilla’s contemporary urban art festival **Hidden Walls** (2019). His capstone **Dirty Money** for the School of Fine Arts of the Universidad del Atlántico, Barranquilla, earned him an award to participate in Proyecto Tesis at the Museum of Contemporary Art in Bogotá (2015). Ilian won a Portafolio de Estímulos Distrital grant to participate in **Drapart** in Barcelona (2017). Selected exhibitions include **TODO A 500**, Gallery of the Pilot Library of the Caribbean (2017); **Proyecto TESIS 2015**, Museum of Contemporary Art of Bogotá (2015); **Dirty Money 2.0**, Salón Pedro Biaba, Barranquilla (2015); and works in collective *Brujería* exhibitions (2014, 2015, 2016, 2017, 2018 and 2019). Second honorable mention in the First MAUA Fine and Visual Arts Salon (2010). Ilian creates street art and has intervened in public spaces with large-scale graffiti in Barranquilla, Cartagena, Bogotá, Barcelona and Valencia, mostly in collaboration with Gisella López. Ilian's independent video productions include **Nueva Era** (2014), **trip up with the dark marimonda**, Ficbaq-winning **filminuto** (2015), **Green Blood** (2013), and **Vomito es lo hay** (2019).
 
-### [Ed](https://elotroalex.github.io/ed/) | Jekyll theme by Alex Gil
-
-Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility, durability, ease and flexibility. Its underlying technology is easy to learn and teach, and can produce beautifully rendered scholarly or reading editions of texts meant to last.
-
 ---
 
 ## Acknowledgments
