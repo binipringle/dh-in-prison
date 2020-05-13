@@ -26,6 +26,6 @@ With a firm belief that education is a real means to help people improve their l
 
 ---
 
-[Next: 2. Education in Prison](/dh-in-prison/texts/2-edinprison.md)
+[Next: 2. Education in Prison](/dh-in-prison/texts/2-edinprison)
 
 ---
