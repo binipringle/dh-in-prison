@@ -3,13 +3,14 @@ layout: page
 title: Bibliography
 ---
 
-I'm working on rendering the bibliography (that's why those numbers are there - it's not my intention to number entries). It'll look better soon!
+Access Securepak. “Catalog.” Access Securepak. <https://www.accesscatalog.com/index.html?PageID=26> Accessed December 9, 2019.
 
-14. Access Securepak. “Catalog.” Access Securepak. https://www.accesscatalog.com/index.html?PageID=26 Accessed December 9, 2019.
-2. American Civil Liberties Union. “America’s Addiction to Juvenile Incarceration: State by State.” American Civil Liberties Union, 2018. https://www.aclu.org/issues/juvenile-justice/youth-incarceration/americas-addiction-juvenile-incarceration-state-state
-Accessed February 23, 2020.
-3. American Civil Liberties Union. "Mass Incarceration." American Civil Liberties Union, 2020. https://www.aclu.org/issues/smart-justice/mass-incarceration Accessed May 8, 2020.
-4. Archipelagos \| a journal of digital Caribbean praxis. http://archipelagosjournal.org/ Accessed May 3, 2020.
+American Civil Liberties Union. “America’s Addiction to Juvenile Incarceration: State by State.” American Civil Liberties Union, 2018. <https://www.aclu.org/issues/juvenile-justice/youth-incarceration/americas-addiction-juvenile-incarceration-state-state> Accessed February 23, 2020.
+
+American Civil Liberties Union. "Mass Incarceration." American Civil Liberties Union, 2020. <https://www.aclu.org/issues/smart-justice/mass-incarceration> Accessed May 8, 2020.
+
+archipelagos \| a journal of digital Caribbean praxis. <http://archipelagosjournal.org/> Accessed May 3, 2020.
+
 5. Battacharya, Ananya. “This is the tablet prisoners use.” CNN Business, July 23, 2015. https://money.cnn.com/2015/07/23/technology/jpay-prison-tablet/ Accessed January 20, 2020.
 6. BBC Contributors. “Coronavirus: At least 23 killed in Colombia prison unrest.” BBC News: March 23, 2020. https://www.bbc.com/news/world-latin-america-51999594
 Accessed April 3, 2020.
