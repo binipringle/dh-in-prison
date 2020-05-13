@@ -11,3 +11,7 @@ As the global coronavirus pandemic kills hundreds of thousands of people around 
 If people recently released from prison succeed in their reentry into society, we all succeed in making our communities better, more humane and safer places to live. Teaching digital skills in the context of digital humanities provides us with the opportunity to question and critically assess our relationships with and within the technology-driven infrastructures that govern or affect almost every aspect of society at the present time. By gaining a bit more understanding of what computers do and what we can do with them, we gain a lot more agency, ownership and control over our lives, which in turn allows us to continue to fight for a happier, more just and more equitable world.
 
 ---
+
+[Bibliography](/binipringle.github.io/dh-in-prison/texts/9-bibliography.md)
+
+---

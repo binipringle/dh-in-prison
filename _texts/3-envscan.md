@@ -7,7 +7,7 @@ rights:
 source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY. May 2020
 toc:
 - College-in-prison programs in New York State
-- Programs and Initiatives in other states and other countries
+- Programs and initiatives in other states and other countries
 
 ---
 
@@ -27,7 +27,8 @@ The New York University Prison Education Program (NYU PEP) offers an Associate o
 The Institute for Justice and Opportunity at CUNY’s John Jay College of Criminal Justice has a program called the Prison-to-College Pipeline (P2CP) which funnels students into college to complete degrees they start at Otisville Correctional Facility in upstate New York. P2CP students are incarcerated adults who have high school diplomas or GEDs, are sentenced to fewer than five years and pass CUNY reading and writing assessment tests. All students who maintain passing grades are guaranteed admission to a CUNY institution upon release (Prison-to-College Pipeline). P2CP’s academic program includes courses in Anthropology, English, Sociology and others. As far as I can tell, no digital humanities courses are currently taught at Otisville.
 
 ---
-# Programs and Initiatives in other states and other countries
+
+# Programs and initiatives in other states and other countries
 
 At San Quentin State Prison in California a nonprofit startup education program called Last Mile is teaching incarcerated students to code. Founded by Chris Redlitz, a Californian venture capitalist, Last Mile’s stated mission is “to provide marketable skills that lead to employment” and secure incarcerated people jobs (Last Mile). Trainees are taught to code in HTML, JavaScript, CSS and Python without internet connectivity through a proprietary programming platform. In 2016, Redlitz launched TLMWorks, a web development shop inside San Quentin where incarcerated graduates work for what the Last Mile website claims is “an industry standard wage” (Last Mile) While I share Last Mile’s stated goal of arming incarcerated people with marketable skills that will lead to employment, I am a little wary of any company that makes a profit on labor done behind bars. In addition to this, Last Mile’s software is not open source and this I consider unkind. On the other hand, photographs show incarcerated coders working in a spacious room filled with desktops (Last Mile) and I imagine they are learning a lot.   
 
@@ -37,5 +38,8 @@ This year, at a prison in Turku, Finland, incarcerated people are taking a cours
 
 More and more initiatives for teaching technological and digital skills are starting to make their way into prisons around the world. In the U.S. it will take a long time for the broken systems of our chronically overcrowded prisons to catch up; they may only start to incorporate technology into their educational facilities when prison-industrial complex stakeholders see money to be made. Digital affordances in education will, however, continue to make their way to incarcerated students through the effort of dedicated faculty, staff, and administrators of educational initiatives in schools, colleges, universities and programs nation-wide.
 
+---
+
+[Next: 4. Prison Constraints](/binipringle.github.io/dh-in-prison/texts/4-prisconstraints.md)
 
 ---

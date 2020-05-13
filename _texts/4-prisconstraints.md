@@ -1,20 +1,19 @@
 ---
 layout: narrative
-title: 4. Prison constraints
+title: 4. Prison Constraints
 author:
 editor: Sabina Pringle
 rights:
 source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY. May 2020
 toc:
-- Technological Constraints
-- Communication as a security threat
-- Tech Monopolies
-- The Digital-Analog Leap
+- Technological constraints
+- Tech monopolies
+- The digital-analog Leap
 - Internet
 - Learning constraints
 ---
 
-# Technological Constraints
+# Technological constraints
 
 You cannot have a laptop in prison, nor can you have a cell phone. Most electronic devices are prohibited, but some radios, MP3 and MP4 players and tablets cased in see-through plastic are allowed. Prison-approved devices, however, are often too expensive for incarcerated people to buy. Software service and media prices for accessing content on approved devices also tends to come with exorbitant fees. Two companies that control a lot of the prison tech market – Advanced Technologies Group (AGT) and Securas Technologies – have a huge monopoly with little oversight and engage in predatory financial practices which include giving kickbacks to correctional facilities.
 
@@ -26,7 +25,7 @@ In a statement accompanying proposed legislation for deploying new security meas
 
 ---
 
-# Tech Monopolies
+# Tech monopolies
 
 State prisons have contracts with different telecommunications network providers such as Global Tel Link (GTL), which sells email service to incarcerated people. In 2015, GTL controlled 50% of the Inmate Calling Services $1.2 billion telecommunications industry (Wikipedia Contributors, “Global Tel Link”). In federal prisons incarcerated people can communicate with a limited number of pre-approved people by email using Corrlinks software provided by Advanced Technologies Group, L.L.C. (Business Insider)[^2]  which “develops and supports software solutions that help state and federal correctional agencies operate more efficiently” and preposterously claims that it “help[s] offenders become more self-reliant and better prepared to re-integrate into society.” Not only does it make money off people who have no choice but to purchase its wares, but also has the gall to advertise its products as something that will help make them better people.
 
@@ -60,7 +59,7 @@ As technology use in education programs in prison increases, companies like Secu
 
 ---
 
-# The Digital-Analog Leap
+# The digital-analog Leap
 
 Aware from first-hand experience of how important communication with family, friends and communities in the outside world is for those in prison, at least three formerly incarcerated people created Instagram-type apps which allow family and friends to send selfies and messages directly from their phones to the prisons, where these are printed out and delivered to incarcerated people as if they were mail. Pigeonly is an app that allows people on the outside to send photos and messages to people inside, as well as to access cheaper online phone rates for a low monthly fee (Pigeonly).
 
@@ -82,8 +81,12 @@ The New York State Department of Corrections and Community took some measures to
 
 Years ago, my first boyfriend was incarcerated for something foolish he had done in his teens. His case had crawled through the criminal justice system for years, and when he was finally committed to prison, he was a happy, healthy young man with a job. When I went to visit him after only a week of confinement, however, I was struck by the change prison had wrought. His skin had lost its glow due to prison food, lack of fresh air and lack of exercise, and he was haggard on account of lost sleep.  The most striking change, though, was a sort of flitting absence that had taken hold in his eye. As we talked he was strangely distracted, as if he were not altogether there. As weeks and months went by these changes become more pronounced, and I saw that his sense of connection to the world was slipping away.
 
-A Prison Reform Trust report found that isolation from families and social networks, austere surroundings, loss of privacy, poor physical and hygienic conditions, aggression, bullying, fear, suspicion, the attitudes of unsympathetic and uninformed staff, lack of purposeful activity, loss of personal control, loss of power to act, loss of identity, pressure to escape or to take drugs, shame and stigmatization, uncertainty and concern about reentry all have severe negative effects on mental health (“Prisons can Seriously Damage your Mental Health”).  Under prison conditions, people shut down. Many turn to religion. Others seek solace in drugs. Prison is about as unconducive a learning environment as one can get.
+A Prison Reform Trust report found that isolation from families and social networks, austere surroundings, loss of privacy, poor physical and hygienic conditions, aggression, bullying, fear, suspicion, the attitudes of unsympathetic and uninformed staff, lack of purposeful activity, loss of personal control, loss of power to act, loss of identity, pressure to escape or to take drugs, shame and stigmatization, uncertainty and concern about reentry all have severe negative effects on mental health (Prison Reform Trust).  Under prison conditions, people shut down. Many turn to religion. Others seek solace in drugs. Prison is about as unconducive a learning environment as one can get.
 
 Prison schedules and regimens put incarcerated students under a lot of stress, which is never a good thing for study. Humanities courses are a good way to push back against the disassociation many imprisoned people experience when confined because the humanities help us situate personal experience in historical and systemic contexts, make connections between self and society, question, analyze, and imagine, thus engaging the mind. Learning to do humanities research through praxis with digital tools further helps people engage, even under duress, because it is fun. Fun is a proven pedagogical method to engage students. Building is empowering and building digital artifacts in collaboration with others will build student communities in the prison classroom.
+
+---
+
+[Next: 5. Minimal Computing](/binipringle.github.io/dh-in-prison/texts/5-minicomp.md)
 
 ---

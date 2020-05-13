@@ -16,5 +16,8 @@ DH in Prison and Intro to DH will be hosted on Reclaim Hosting, an internet host
 
 [^1]: At the time of deposit the two websites are hosted on GitHub Pages while I grapple with - for me - Reclaim Hosting's surprisingly steep learning curve.
 
+---
+
+[Next: 8. Conclusion](/binipringle.github.io/dh-in-prison/texts/8-conclusion.md)
 
 ---

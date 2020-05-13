@@ -7,9 +7,9 @@ rights:
 source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY. May 2020
 toc:
 - Background
-- Reducing Recidivism
-- The Digital Divide
-- The Right to an Education
+- Reducing recidivism
+- The digital divide
+- The right to an Education
 ---
 
 # Background
@@ -26,7 +26,7 @@ In 2018 Congress passed The First Step Act, a bipartisan criminal justice reform
 
 ---
 
-# Reducing Recidivism
+# Reducing recidivism
 
 A landmark analysis of correctional education programs published by the RAND Corporation in 2013 covering 30 years of research shows that that prison-based education reduces short-term recidivism by 43% and long-term recidivism by 29% (Davis et al.). The same study shows that prison-based education lowers incarceration costs, yielding $4 to $5 of taxpayer savings for every dollar invested in helping incarcerated people learn (Davis et al.). The Vera Institute of Justice further observes that communities benefit over time, because “when parents, including incarcerated parents, complete college, their children are more likely to do so, thereby disrupting the typical cycle of poverty and incarceration” (“Fact Sheet”). It is thus in the interest of our communities and of our larger social fabric that we give people in prison the opportunity to acquire skills that will help them get jobs, which will in turn help underserved communities gain economic stability and move a little closer towards having some of the safety that privileges the middle class.
 
@@ -38,7 +38,7 @@ The prison-industrial complex attempts to dehumanize; humanities scholarship doe
 
 ---
 
-# The Digital Divide
+# The digital divide
 
 Most prison courses are book-based and most writing is done by hand. Facilities are under-resourced and low-tech, and students are denied internet access. In normal conditions, some incarcerated people who can afford to pay for email services do have limited access to web-based technology. Federal prisons give some incarcerated people access to an email service called Corrlinks, for an exorbitant fee. Some prison libraries have computer rooms where incarcerated people can research their cases and read other cases that the BOP chooses to share. On these computers users can enter their passwords and connect directly to the BOP database that corresponds to their case. Many prisons also have computers for taking the GED but these computers belong to GED Testing LLC and are only ever used for taking the actual GED exam; all practice exams are paper-based. When incarcerated students take the GED, one of their biggest challenges is typing the extended response (a four to seven paragraph essay in 45 minutes) on a clunky computer. They can only prepare for this part of the exam through writing long hand, and many students fail that part of the exam the first time round because they are not able to adequately prepare.
 
@@ -57,5 +57,9 @@ In the United States, education is, arguably, not a right. While the U.S. consti
 [^1]: Since 2015 the number of institutions participating in the Second Chance Pell program went down from 68 to 64.
 
 [^2]: Cook v. Raimondo (Rhode Island) and Gary B. v. Snyder (Michigan), both 2018.
+
+---
+
+[Next: 3. Environmental Scan](/binipringle.github.io/dh-in-prison/texts/3-envscan.md)
 
 ---

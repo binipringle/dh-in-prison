@@ -32,9 +32,13 @@ P2CP is funded by the Institute for Justice and Opportunity, and some tuition co
 
 An introduction to digital humanities course for fifteen students would require seventeen laptops. Fifteen of these would be individual student laptops, one would be the instructor’s laptop, and the seventeenth would act as the server. Individual laptops would either be wired to the server with a LAN switch or connected wirelessly to the server via a router. The instructor(s) would also have one or two external hard drive(s) and/or USB stick for backup, course readings and additional resources. Two external CD/DVD drives would also be needed; one which would remain in the facility to read CD-ROMs and the other, which would not be brought to the prison, for the instructor(s) to burn additional software, programs and course material files to CD-ROMs if needed.
 
+---
+
 ## Programs and software
 
 In traditional digital humanities courses, we rely greatly on resources available through the internet. Here, everything would have to live on sixteen laptops, USB sticks and the external hard drive(s). The computer programs and learning resources for the envisioned introduction to digital humanities course would be pre-installed on student laptops and/or the instructor(s)’s laptop. Students would submit assignments, share their work with each other and collaborate on projects through Ubuntu’s Public Folder, which would be accessed through the local network, and/or by using USB drives. Some of the built-in applications that come with Ubuntu, including the Libre Office suite and the three games (solitaire, mines and sudoku), could be made available to students.
+
+---
 
 ## Course delivery
 
@@ -42,9 +46,13 @@ A lot of the envisioned course would be delivered digitally in class on the cour
 
 Because learning digital skills usually involves a lot of practice, it would be great if students were allowed to use their laptops in tutoring and/or study sessions outside of class.
 
+---
+
 ## Accessibility
 
 The envisioned course site follows and must continue to follow the World Wide Web Consortium’s <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessibility Guidelines (WCAG) Version 2.1</a> in order to make electronic content accessible to everyone who uses it. Following the <a href="http://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/administration/offices/hr/policies-and-procedures/CUNYPolicy-Equal-Opportunity-and-Non-Discrimination-010115-procedures.pdf ">CUNY Policy on Equal Opportunity and Non-Discrimination</a> and in keeping with the guideline's in <a href="https://www.cuny.edu/accessibility/statement/">CUNY's IT accessibility Statement</a>, the envisioned introduction to digital humanities course aims not only to be accessible but also to show students how to produce work within guidelines that makes their work accessible to everyone.
+
+---
 
 ## Security
 
@@ -53,6 +61,8 @@ It would probably be best if all hardware remained on the facility. This way the
 For security reasons it might be best if students worked on the same computer in each class session for the duration of the course and saved their work on that computer. It would be good if students could also save their work on USBs, which could be labeled and kept with the laptops.
 
 One of the exciting challenges that this course presents is to map out and prepare everything students need to achieve course learning goals in ways that work around significant prison-specific constraints.
+
+---
 
 # Hardware cost estimate
 
@@ -77,3 +87,9 @@ A model-in-development for an introduction to digital humanities course for pris
 ---
 
 ![illustration-by-gisella](https://binipringle.github.io/dh-in-prison/assets/img/gise3-full.png)
+
+---
+
+[Next: 7. Maintenance and Sustainability](/binipringle.github.io/dh-in-prison/texts/7-maintenance.md)
+
+---
