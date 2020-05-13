@@ -15,10 +15,10 @@ You are free to use, copy, modify, merge, publish, distribute, sublicense, and/o
 
 ---
 
-1. Patrick Svensson, <a href="https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/38531431-5bd6-4eb1-95f5-fa49c025322d">"Beyond the Big Tent."</a> Debates in the Digital Humanities 2012. Chapter 4.
+1. Patrick Svensson, "Beyond the Big Tent." Debates in the Digital Humanities 2012. Manifold. Chapter 4. <https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/38531431-5bd6-4eb1-95f5-fa49c025322d>
 
-2. Matthew K. Gold and Lauren F. Klein, <a href="https://dhdebates.gc.cuny.edu/read/untitled/section/14b686b2-bdda-417f-b603-96ae8fbbfd0f#intro/">"Digital Humanities: The Expanded Field."</a> Debates in the Digital Humanities 2016. Introduction.
+2. Matthew K. Gold and Lauren F. Klein. "Digital Humanities: The Expanded Field." Debates in the Digital Humanities 2016. Manifold. Introduction. <https://dhdebates.gc.cuny.edu/read/untitled/section/14b686b2-bdda-417f-b603-96ae8fbbfd0f#intro/>
 
-3. Matthew K. Gold and Lauren F. Klein, <a href="https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/0cd11777-7d1b-4f2c-8fdf-4704e827c2c2#intro/">"A DH That Matters."</a> Debates in the Digital Humanities 2019. Introduction.
+3. Matthew K. Gold and Lauren F. Klein. "A DH That Matters." Debates in the Digital Humanities 2019. Manifold. Introduction. <https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/0cd11777-7d1b-4f2c-8fdf-4704e827c2c2#intro/>
 
 ---
