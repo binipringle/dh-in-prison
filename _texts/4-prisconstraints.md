@@ -87,6 +87,6 @@ Prison schedules and regimens put incarcerated students under a lot of stress, w
 
 ---
 
-[Next: 5. Minimal Computing](/binipringle.github.io/dh-in-prison/texts/5-minicomp.md)
+[Next: 5. Minimal Computing](/dh-in-prison/texts/5-minicomp.md)
 
 ---
