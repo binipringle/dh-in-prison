@@ -95,6 +95,6 @@ I chose to work with Linux rather than Mac OS or Windows because Linux is free a
 
 ___
 
-[Next: 6. P2CP: a Case Study and Possible Proposal](/dh-in-prison/texts/6-casestudy.md)
+[Next: 6. P2CP: a Case Study and Possible Proposal](/dh-in-prison/texts/6-casestudy)
 
 ---

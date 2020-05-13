@@ -40,6 +40,6 @@ More and more initiatives for teaching technological and digital skills are star
 
 ---
 
-[Next: 4. Prison Constraints](/dh-in-prison/texts/4-prisconstraints.md)
+[Next: 4. Prison Constraints](/dh-in-prison/texts/4-prisconstraints)
 
 ---

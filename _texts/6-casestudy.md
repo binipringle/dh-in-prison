@@ -90,6 +90,6 @@ A model-in-development for an introduction to digital humanities course for pris
 
 ---
 
-[Next: 7. Maintenance and Sustainability](/dh-in-prison/texts/7-maintenance.md)
+[Next: 7. Maintenance and Sustainability](/dh-in-prison/texts/7-maintenance)
 
 ---

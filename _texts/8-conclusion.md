@@ -12,6 +12,6 @@ If people recently released from prison succeed in their reentry into society, w
 
 ---
 
-[Bibliography](/dh-in-prison/texts/9-bibliography.md)
+[Bibliography](/dh-in-prison/texts/9-bibliography)
 
 ---

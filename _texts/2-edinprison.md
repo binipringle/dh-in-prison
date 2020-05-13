@@ -60,6 +60,6 @@ In the United States, education is, arguably, not a right. While the U.S. consti
 
 ---
 
-[Next: 3. Environmental Scan](/dh-in-prison/texts/3-envscan.md)
+[Next: 3. Environmental Scan](/dh-in-prison/texts/3-envscan)
 
 ---
