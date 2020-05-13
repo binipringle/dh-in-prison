@@ -13,6 +13,26 @@ The solutions sought in this paper are influenced and inspired by conversations,
 
 ---
 
-<A href="#1.-introduction">Next Page: Introduction</A>
+HTML
 
-[Next Page: 1. Introduction](#1.-introduction)
+<A href="#1.-introduction">Next: Introduction</A>
+
+html with md
+
+<A href="#1.-introduction">: Introduction</A>
+
+kramdown with md
+
+[Next: 1. Introduction](/texts/1-introduction.md)
+
+kramdown no md
+
+[Next: 1. Introduction](/texts/1-introduction)
+
+kramdown md and dh in prison
+
+[Next: 1. Introduction](/dh-in-prison/texts/1-introduction)
+
+kramdown md and dh in prison and binipringle.github
+
+[Next: 1. Introduction](/binipringle.github.io/dh-in-prison/texts/1-introduction)
