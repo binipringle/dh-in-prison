@@ -13,7 +13,7 @@ toc:
 - Learning constraints
 ---
 
-# Technological constraints
+## Technological constraints
 
 You cannot have a laptop in prison, nor can you have a cell phone. Most electronic devices are prohibited, but some radios, MP3 and MP4 players and tablets cased in see-through plastic are allowed. Prison-approved devices, however, are often too expensive for incarcerated people to buy. Software service and media prices for accessing content on approved devices also tends to come with exorbitant fees. Two companies that control a lot of the prison tech market – Advanced Technologies Group (AGT) and Securas Technologies – have a huge monopoly with little oversight and engage in predatory financial practices which include giving kickbacks to correctional facilities.
 
@@ -25,7 +25,7 @@ In a statement accompanying proposed legislation for deploying new security meas
 
 ---
 
-# Tech monopolies
+## Tech monopolies
 
 State prisons have contracts with different telecommunications network providers such as Global Tel Link (GTL), which sells email service to incarcerated people. In 2015, GTL controlled 50% of the Inmate Calling Services $1.2 billion telecommunications industry (Wikipedia Contributors, “Global Tel Link”). In federal prisons incarcerated people can communicate with a limited number of pre-approved people by email using Corrlinks software provided by Advanced Technologies Group, L.L.C. (Business Insider)[^2]  which “develops and supports software solutions that help state and federal correctional agencies operate more efficiently” and preposterously claims that it “help[s] offenders become more self-reliant and better prepared to re-integrate into society.” Not only does it make money off people who have no choice but to purchase its wares, but also has the gall to advertise its products as something that will help make them better people.
 
@@ -59,7 +59,7 @@ As technology use in education programs in prison increases, companies like Secu
 
 ---
 
-# The digital-analog Leap
+## The digital-analog Leap
 
 Aware from first-hand experience of how important communication with family, friends and communities in the outside world is for those in prison, at least three formerly incarcerated people created Instagram-type apps which allow family and friends to send selfies and messages directly from their phones to the prisons, where these are printed out and delivered to incarcerated people as if they were mail. Pigeonly is an app that allows people on the outside to send photos and messages to people inside, as well as to access cheaper online phone rates for a low monthly fee (Pigeonly).
 
@@ -67,7 +67,7 @@ Another app recently created by a formerly incarcerated person is Flikshop, an I
 
 ---
 
-# Internet
+## Internet
 
 The extent to which at least some internet access is denied to most incarcerated people sets these apart from the general population and is an urgent concern. With visits from family, friends and advocates suspended during the Covid-19 pandemic, not having access to online communication is causing unnecessary suffering, and a lack of information has contributed to the exponential spread of Coronavirus in prisons and jails. While communication between free people in wealthier nations around the world has moved online, communication in prison is curtailed because prisons are completely locked down. Incarcerated people receive limited information about the virus itself, the only available sources being television, radio, prison authorities, corrections officers and some limited and expensive communication by phone. We cannot begin to imagine the emotional strain of being cut off from family and friends whose lives are at risk while within prisons the pandemic explodes.[^6]
 
@@ -77,7 +77,7 @@ The New York State Department of Corrections and Community took some measures to
 
 ---  
 
-# Learning constraints
+## Learning constraints
 
 Years ago, my first boyfriend was incarcerated for something foolish he had done in his teens. His case had crawled through the criminal justice system for years, and when he was finally committed to prison, he was a happy, healthy young man with a job. When I went to visit him after only a week of confinement, however, I was struck by the change prison had wrought. His skin had lost its glow due to prison food, lack of fresh air and lack of exercise, and he was haggard on account of lost sleep.  The most striking change, though, was a sort of flitting absence that had taken hold in his eye. As we talked he was strangely distracted, as if he were not altogether there. As weeks and months went by these changes become more pronounced, and I saw that his sense of connection to the world was slipping away.
 

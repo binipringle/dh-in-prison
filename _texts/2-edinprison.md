@@ -12,7 +12,7 @@ toc:
 - The right to an Education
 ---
 
-# Background
+## Background
 
 Mass incarceration started in the 1970s with changes in federal and state legislation that severely limited judges’ power of discretion in sentencing. As a result, the number of adults incarcerated in prisons and jails in the U.S. grew from around 360,000 in 1981 (Bureau of Justice Statistics) to more than 2,200,000 in 2020 (American Civil Liberties Union, "Mass Incarceration"). At the same that incarcerations started to rise, federal funding for education began to decline. In 1994, federal and state funding for education were completely eliminated with The Violent Crime Control and Law Enforcement Act (Public Law 103-322), which amended the Higher Education Act of 1965 to the effect that no basic educational grant would be awarded to any individual incarcerated in any Federal or State penal institution. All incarcerated people, who come mostly from lower income households which rely on federal Pell Grants and the New York State Tuition Assistance Program (TAP) to pay for college, became ineligible for these as well as for other federal and state financial aid. With no funding, between 1990 and 1997 the number of prison college programs in the United States fell from 772 to 8 (Sawyer). Mass incarceration continued to rise. Prisons continued to grow.
 
@@ -26,7 +26,7 @@ In 2018 Congress passed The First Step Act, a bipartisan criminal justice reform
 
 ---
 
-# Reducing recidivism
+## Reducing recidivism
 
 A landmark analysis of correctional education programs published by the RAND Corporation in 2013 covering 30 years of research shows that that prison-based education reduces short-term recidivism by 43% and long-term recidivism by 29% (Davis et al.). The same study shows that prison-based education lowers incarceration costs, yielding $4 to $5 of taxpayer savings for every dollar invested in helping incarcerated people learn (Davis et al.). The Vera Institute of Justice further observes that communities benefit over time, because “when parents, including incarcerated parents, complete college, their children are more likely to do so, thereby disrupting the typical cycle of poverty and incarceration” (“Fact Sheet”). It is thus in the interest of our communities and of our larger social fabric that we give people in prison the opportunity to acquire skills that will help them get jobs, which will in turn help underserved communities gain economic stability and move a little closer towards having some of the safety that privileges the middle class.
 
@@ -38,7 +38,7 @@ The prison-industrial complex attempts to dehumanize; humanities scholarship doe
 
 ---
 
-# The digital divide
+## The digital divide
 
 Most prison courses are book-based and most writing is done by hand. Facilities are under-resourced and low-tech, and students are denied internet access. In normal conditions, some incarcerated people who can afford to pay for email services do have limited access to web-based technology. Federal prisons give some incarcerated people access to an email service called Corrlinks, for an exorbitant fee. Some prison libraries have computer rooms where incarcerated people can research their cases and read other cases that the BOP chooses to share. On these computers users can enter their passwords and connect directly to the BOP database that corresponds to their case. Many prisons also have computers for taking the GED but these computers belong to GED Testing LLC and are only ever used for taking the actual GED exam; all practice exams are paper-based. When incarcerated students take the GED, one of their biggest challenges is typing the extended response (a four to seven paragraph essay in 45 minutes) on a clunky computer. They can only prepare for this part of the exam through writing long hand, and many students fail that part of the exam the first time round because they are not able to adequately prepare.
 
@@ -50,7 +50,7 @@ The current digital divide between prisons and free communities puts formerly in
 
 ---
 
-# The right to an education  
+## The right to an education  
 
 In the United States, education is, arguably, not a right. While the U.S. constitution does not specifically recognize education as a civil right, two recent civil action suits brought to state and federal courts argue that the failure of public schools to teach students to read and write is in effect depriving them of their constitutional right to participate in democratic government.[^2] Some suits went further and argued that postsecondary education is a prerequisite for economic equality and should be available to all and free. Not providing all citizens with the means to participate fully in civic and economic spheres is a form of discrimination, the argument goes. This is a compelling argument and a basis for some of the protections encompassed in The International Covenant on Economic, Social and Cultural Rights (ICESCR), a multilateral treaty adopted by the United Nations General Assembly in 1966, which commits its parties to work toward ensuring the granting of a number of basic rights including the right to primary and postsecondary education. The inclusion of not only primary but also postsecondary education as a right is wonderfully radical. As of September 2018, the Covenant had 169 parties. A further four countries, including the United States, had signed but not ratified the Covenant (Wikipedia contributors, "International Covenant on Economic, Social and Cultural Rights").
 

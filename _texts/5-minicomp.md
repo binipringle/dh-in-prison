@@ -13,7 +13,7 @@ toc:
 ---
 
 
-# Definition, philosophy, history
+## Definition, philosophy, history
 
 Minimal computing is an emerging conversation in digital humanities about the need for computing solutions in parts of the world where people have only limited access to internet connections and digital technologies. This lack of access, as well as the learning curves that accompany it, exclude huge segments of the world population from participating in digital work. Historically, the cost of purchasing hardware and learning to use complex programming languages has kept digital scholarship disproportionally in largely endowed institutions in the northern hemisphere. Minimal computing emerged in response to the need to decolonize discourse in and about the Global South and its diasporas by making technology more widely accessible, independent and easy to use. Alex Gil notes that many academics who are called to take part in institutional initiatives that seek to promote inclusion and diversity are also engaged in the economically challenged spheres and hemispheres where fundamentals of computing are scarce (“Design”).  
 
@@ -67,15 +67,15 @@ Because digital humanities has broken away from the academy in many ways at the 
 
 ---
 
-# Minimal computing and pedagogy
+## Minimal computing and pedagogy
 
 A classroom limited by the significant constraints particular to prisons is an interesting place to develop technical skills, because everything has to be built from scratch. Building from the ground up is the best way to acquire solid digital skills. An artisanal approach gives learners tools to engage in sustainable practices with a lot more freedom and versatility than if they were to learn digital humanities methods of inquiry with “soft” tools such as Omeka, TEI, Voyant, Scalar, Tableau and Carto, which we cannot use anyway because they mostly require a connection to the internet, which prisons do not have. Furthermore, because one of the main aims of teaching digital humanities in prison is to empower students by giving them autonomy and control over what they produce, it is preferable to stay away from ready-made interfaces we do not own. After leaving prison, students who completed an introduction to digital humanities course will be well prepared to learn to use any number of interfaces they might need to get a job, all the while conserving an understanding of the larger political and socio-economic context such interfaces exist in. Gil observes that by learning methods of digital humanities inquiry with the above-mentioned soft tools, “students learn very little about computation, systems, networks, and by extension the social implications of the modes of production that they enable. Even more importantly,” writes Gil, “use of these tools hides the vectors of control, governance and ownership over our cultural artifacts” (“Design”).
 
 ---
 
-# Solutions for working under prison constraints
+## Solutions for working under prison constraints
 
-## Hardware
+### Hardware
 
 If the introduction to digital humanities I envision were offered to, say, fifteen incarcerated students, it could be done with seventeen laptop computers, one per student, one for the instructor and one which would function as the local server. These would all be connected through a Local Area Network (LAN).[^10] The LAN connection would provide students with access to the course syllabus, readings and tutorials, and allow them to share work, edit and annotate code and texts, engage in conversations on a blog, build and play games, and do a lot more. The LAN connection setup is simple and inexpensive, and, especially if it is hardwired, allows users to share large files without a connection to the internet.
 
@@ -85,7 +85,7 @@ In the setup I imagine in prison, the LAN could be established in two ways. One 
 
 ---
 
-## Software and operating system
+### Software and operating system
 
 In the [Intro to DH](https://binipringle.github.io/intro-to-dh/) course model I developed as part of this project course readings and tutorials for learning technical skills are made available to students on a static site built with **Ed.**, a Jekyll theme developed by Alex Gil.  This pedagogical use might be a new use of Ed., but it is adapting beautifully. At one point I considered using Hugo, another static site generator, because Ed. does not work very well with Windows as of yet (at that point I was considering using PCs).
 

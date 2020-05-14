@@ -1,4 +1,4 @@
-## All illustrations and logos on this site are released with the following Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0):
+## All illustrations and logos in the folders "assets/img/gise" and "assets/img/ilian" and "assets/logo" and "assets/img" are released with the following Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0):
 
 Copyright (c) 2020-present Gisella Lopez Bautista and Ilian David Sanchez Rodriguez
 

@@ -11,7 +11,7 @@ toc:
 
 ---
 
-# College-in-prison programs in New York State
+## College-in-prison programs in New York State
 
 As of March 2019, there were 15 college-in-prison programs operating in 25 correctional facilities run by New York State; this is a great increase from four in the mid-1990s but a big decrease from the 1970s, when there were seventy higher education programs in prisons in New York State (Prisoner Reentry Institute).  The existing programs are funded by the Federal Second Chance Pell pilot program, the District Attorney of New York’s Criminal Justice Investment Initiative (DANY CJII), and the State Legislature. But despite the progress that has been made since the 1990s, only 3% of the approximately 47,000 individuals incarcerated in New York State are able to participate in college programs as of March 2019 (Prisoner Reentry institute).
 
@@ -28,7 +28,7 @@ The Institute for Justice and Opportunity at CUNY’s John Jay College of Crimin
 
 ---
 
-# Programs and initiatives in other states and other countries
+## Programs and initiatives in other states and other countries
 
 At San Quentin State Prison in California a nonprofit startup education program called **The Last Mile** is teaching incarcerated students to code. Founded by Chris Redlitz, a Californian venture capitalist, The Last Mile’s stated mission is “to provide marketable skills that lead to employment” and secure incarcerated people jobs (The Last Mile). Trainees are taught to code in HTML, JavaScript, CSS and Python without internet connectivity through a proprietary programming platform. In 2016, Redlitz launched TLMWorks, a web development shop inside San Quentin where incarcerated graduates work for what the Last Mile website claims is “an industry standard wage” (The Last Mile). The Last Mile’s software is not open source. On the other hand, photographs show incarcerated coders working in a spacious room filled with desktops (The Last Mile) and I imagine they are learning a lot.   
 
