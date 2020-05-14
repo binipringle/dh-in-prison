@@ -34,10 +34,32 @@ If the site was rendered, copy the url from your terminal log and paste it into 
 
 ### If the site did not render:
 
-And you had errors you could not resolve, follow the installation instructions in the [documentation of Ed](https://elotroalex.github.io/ed/documentation/), replacing "ed" with "dh-in-prison" wherever necessary.
+And you had errors you could not resolve, follow the installation instructions in the [Ed documentation](https://elotroalex.github.io/ed/documentation/), replacing "ed" with "dh-in-prison" wherever necessary. Ed is the Jekyll theme that I used to build DH in Prison, so if you clone DH in Prison onto your computer and run into issues, I recommend looking to the [Ed documentation](https://elotroalex.github.io/ed/documentation/) for help.
 
-Ed is the Jekyll theme that I used to build DH in Prison, so if what you want to do is to completely change the content of DH in Prison and build your own site with its framework, I strongly recommend that you clone Ed instead and use Ed to build your site because Ed's documentation is way better than mine.
+## Note on adding images
 
-If, on the other hand, you are interested in talking about, contributing to or otherwise getting involved in DH in Prison, see its sibling site [Intro to DH](https://binipringle.github.io/intro-to-dh/) and write to me at springle@ccny.cuny.edu or [https://github.com/binipringle ](https://github.com/binipringle)  
+In order to render images, I added the following code to the **_config.yml** file:
+
+```
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+```
+
+I enabled responsiveness on mobile devices in the following line in the **_ed.scss** file:
+
+```
+<meta name="viewport" content="width=device-width,initial-scale=1.0,shrink-to-fit=yes" />
+```
+
+## Note on adding licenses
+
+Because the logo, illustrations and some texts on this site are distributed with different licenses, I created folders for collections and put a copy of the pertinent license in that folder in a LICENSE.md file. I added the text of this CC BY-NC-SA 4.0 license CC and the text of the CC BY-SA 4.0 which my work and the GCDRI and GC DHRI work are licensed with, to the MIT License which Ed is licensed with in the LICENSE.md folder at the top level of the repository.
+
+---
+
+If you are interested in talking about, contributing to or otherwise getting involved in DH in Prison, see its sibling site [Intro to DH](https://binipringle.github.io/intro-to-dh/) and write to me at springle@ccny.cuny.edu or [https://github.com/binipringle ](https://github.com/binipringle).  
 
 ---

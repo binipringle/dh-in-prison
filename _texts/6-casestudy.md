@@ -86,7 +86,7 @@ A model-in-development for an introduction to digital humanities course for pris
 
 ---
 
-![illustration-by-gisella](https://binipringle.github.io/dh-in-prison/assets/img/gise3-full.png)
+![illustration-by-gisella](/dh-in-prison/assets/img/gise3-full.png)
 
 ---
 
