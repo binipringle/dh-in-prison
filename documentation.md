@@ -57,9 +57,3 @@ I enabled responsiveness on mobile devices in the following line in the **_ed.sc
 ## Note on adding licenses
 
 Because the logo, illustrations and some texts on this site are distributed with different licenses, I created folders for collections and put a copy of the pertinent license in that folder in a LICENSE.md file. I added the text of this CC BY-NC-SA 4.0 license CC and the text of the CC BY-SA 4.0 which my work and the GCDRI and GC DHRI work are licensed with, to the MIT License which Ed is licensed with in the LICENSE.md folder at the top level of the repository.
-
----
-
-If you are interested in talking about, contributing to or otherwise getting involved in DH in Prison, see its sibling site [Intro to DH](https://binipringle.github.io/intro-to-dh/) and write to me at springle@ccny.cuny.edu or [https://github.com/binipringle ](https://github.com/binipringle).  
-
----
